@@ -2,81 +2,81 @@
 <HelpTOC>
 
   <HelpTOCNode Title="Welcome" Url="html/a9e6b954-5594-4cdd-a526-59421200d6f6.htm" />
-  <HelpTOCNode Id="0bb35a4c-ec26-4012-af81-8ee945c75365" Title="Version History" Url="html/30d67389-4297-47fc-a157-7e65415106a7.htm">
+  <HelpTOCNode Id="ed076b1d-20ff-4667-ad2f-cb15737636bf" Title="Version History" Url="html/30d67389-4297-47fc-a157-7e65415106a7.htm">
     <HelpTOCNode Title="Version 1.0.0.0" Url="html/dbf89653-a255-412e-98e0-d87c4302f410.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="cdea00d3-d8fc-4ef6-81d9-ba138ad68796" Title="ETradeNet" Url="html/d75eb659-6335-53f6-af7a-81814a21ab7f.htm">
-    <HelpTOCNode Id="3d4686da-97f3-462d-9fa8-2f60349f72e8" Title="ETradeNet" Url="html/ddc8ddbb-4f07-9ec0-6ce1-57ea677c356b.htm">
-      <HelpTOCNode Id="fb4e425a-5b20-46f2-85c5-0b0552979fe9" Title="BindableBase Class" Url="html/6b02eb1b-3c1a-355a-347b-e75c62171081.htm">
+  <HelpTOCNode Id="fc0f24c4-ca3e-4644-9b70-3f8839674b1e" Title="ETradeNet" Url="html/d75eb659-6335-53f6-af7a-81814a21ab7f.htm">
+    <HelpTOCNode Id="af4f42d5-9ace-43f1-ad4d-1161de9b4762" Title="ETradeNet" Url="html/ddc8ddbb-4f07-9ec0-6ce1-57ea677c356b.htm">
+      <HelpTOCNode Id="90aa676e-7705-4621-8004-b485bce12c71" Title="BindableBase Class" Url="html/6b02eb1b-3c1a-355a-347b-e75c62171081.htm">
         <HelpTOCNode Title="BindableBase Constructor " Url="html/02a937b1-b5ff-df51-d7dc-4e6fd302dfa2.htm" />
-        <HelpTOCNode Id="52548214-e3c1-4d38-9996-13299232e634" Title="BindableBase Methods" Url="html/591e8f2a-7028-cbad-aade-c16350dc1a8c.htm">
-          <HelpTOCNode Id="71b6f6e6-e74e-4f14-b917-19b1e04f06a3" Title="OnPropertyChanged Method " Url="html/4a8b5cf3-4ef7-d00d-3842-1a21fb9b5ff9.htm">
+        <HelpTOCNode Id="06231485-a7d2-4906-9b3b-03118de3a4b7" Title="BindableBase Methods" Url="html/591e8f2a-7028-cbad-aade-c16350dc1a8c.htm">
+          <HelpTOCNode Id="f604b9be-7b31-416c-a1cf-fb002772ca4a" Title="OnPropertyChanged Method " Url="html/4a8b5cf3-4ef7-d00d-3842-1a21fb9b5ff9.htm">
             <HelpTOCNode Title="OnPropertyChanged(T) Method (Expression(Func(T)))" Url="html/1cf4482f-d71b-73c1-54f1-aba525e462fa.htm" />
             <HelpTOCNode Title="OnPropertyChanged Method (String)" Url="html/26294688-542f-b1f2-47f8-a5d6ac9498e0.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="cc349813-c00f-4979-8e1e-a68e207f1f0a" Title="SetProperty Method " Url="html/afdc36c5-5fca-ff3d-745e-557384633fc4.htm">
+          <HelpTOCNode Id="6c136bec-6a5a-4907-ba29-17933c02f0d5" Title="SetProperty Method " Url="html/afdc36c5-5fca-ff3d-745e-557384633fc4.htm">
             <HelpTOCNode Title="SetProperty(T) Method (T, T, String)" Url="html/f3519111-be69-837c-4966-a566ce7760a4.htm" />
             <HelpTOCNode Title="SetProperty(T) Method (T, T, IEqualityComparer(T), String)" Url="html/cf2481e1-b829-537e-5912-9aca1797f816.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="614b2fd6-c246-419c-b8be-56c7b8c2857f" Title="BindableBase Events" Url="html/2ac7ff4b-a3b7-cb59-8437-d8c84f1adfde.htm">
+        <HelpTOCNode Id="34154997-0d04-4373-89ac-1a38725a6ddd" Title="BindableBase Events" Url="html/2ac7ff4b-a3b7-cb59-8437-d8c84f1adfde.htm">
           <HelpTOCNode Title="PropertyChanged Event" Url="html/f72f92c3-6188-2583-a66c-e4ae8415f04c.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="99efc6f1-8f50-46db-8c62-34639b98c163" Title="Error Class" Url="html/6b1bca1d-bfc0-87c4-a2f0-1771e81572c4.htm">
+      <HelpTOCNode Id="202cc3b7-d165-458b-8f98-565daf97d7db" Title="Error Class" Url="html/6b1bca1d-bfc0-87c4-a2f0-1771e81572c4.htm">
         <HelpTOCNode Title="Error Constructor " Url="html/af0397c5-f341-4f83-362a-269eef43c0a7.htm" />
-        <HelpTOCNode Id="5cb7cad3-b8b7-42d5-9bd5-6956083d545a" Title="Error Properties" Url="html/a5c83703-4007-3a79-80ca-a85ca21de505.htm">
+        <HelpTOCNode Id="cf4ded4b-f112-4e37-8c15-ae1dec504b31" Title="Error Properties" Url="html/a5c83703-4007-3a79-80ca-a85ca21de505.htm">
           <HelpTOCNode Title="Code Property " Url="html/9734d10c-530e-b030-6785-31c7eb480319.htm" />
           <HelpTOCNode Title="Message Property " Url="html/1336d6a2-eb51-f0eb-71cb-9acfdb4a14cd.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Error Methods" Url="html/c3cba99e-bef8-e6c4-469d-fd1eaa8b8f83.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="aed53f64-07ce-450e-8785-9ed01c2a2d6e" Title="ETradeException Class" Url="html/41f33e28-6de4-46ca-8e72-5d158f08df52.htm">
-        <HelpTOCNode Id="9c7a2abb-a099-4e3a-8d5a-250bb2b695a2" Title="ETradeException Constructor " Url="html/f1e4d0a9-e666-0a4c-26a9-5664631bd1a2.htm">
+      <HelpTOCNode Id="e5e42f85-677e-4971-bc20-419cbb2caa4b" Title="ETradeException Class" Url="html/41f33e28-6de4-46ca-8e72-5d158f08df52.htm">
+        <HelpTOCNode Id="298d4973-ddec-4433-85ac-633f0546b407" Title="ETradeException Constructor " Url="html/f1e4d0a9-e666-0a4c-26a9-5664631bd1a2.htm">
           <HelpTOCNode Title="ETradeException Constructor (String)" Url="html/27ed3a7d-2875-65bf-47bf-bf003057c39d.htm" />
           <HelpTOCNode Title="ETradeException Constructor (Error)" Url="html/4b31ea23-b63d-e554-9cd7-156668e047df.htm" />
           <HelpTOCNode Title="ETradeException Constructor (String, Exception)" Url="html/ea2b9f8d-175f-8ccb-c045-28d0e1ee9186.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="341fa77c-9238-4572-bed0-17c65601c285" Title="ETradeException Properties" Url="html/bc73d52e-eab1-848f-69e9-238675949689.htm">
+        <HelpTOCNode Id="0602afa3-6553-430f-ba55-c34981de10d8" Title="ETradeException Properties" Url="html/bc73d52e-eab1-848f-69e9-238675949689.htm">
           <HelpTOCNode Title="Error Property " Url="html/6a396f0b-3c30-fe16-33ff-7eb97b17fa7d.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ETradeException Methods" Url="html/066055ff-3c36-6a21-a704-bf7e0a2f1efb.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="c09fb642-6b93-4133-a2fd-525b288044f8" Title="WrapJsonSerializerProxy Class" Url="html/3541e977-8bd2-aee2-88d2-bdb99aa0b170.htm">
+      <HelpTOCNode Id="620c1d3f-e274-4940-9c7c-8e3bf150e11b" Title="WrapJsonSerializerProxy Class" Url="html/3541e977-8bd2-aee2-88d2-bdb99aa0b170.htm">
         <HelpTOCNode Title="WrapJsonSerializerProxy Constructor " Url="html/6f13ca2c-0cde-0895-2ba1-b37345361ed4.htm" />
         <HelpTOCNode Title="WrapJsonSerializerProxy Properties" Url="html/d9a5ccc4-dc9e-3d21-1e82-417dc0fcb279.htm" />
-        <HelpTOCNode Id="350e4873-106a-47a7-8b99-2238be388d61" Title="WrapJsonSerializerProxy Methods" Url="html/631ef851-a11a-8ef1-aab0-c1c6ea27c16d.htm">
+        <HelpTOCNode Id="f8349a17-b877-4ef0-aef9-375c7130322a" Title="WrapJsonSerializerProxy Methods" Url="html/631ef851-a11a-8ef1-aab0-c1c6ea27c16d.htm">
           <HelpTOCNode Title="CreateSettings Method " Url="html/c233e739-c4ee-764a-8ecf-172e6e3353c8.htm" />
-          <HelpTOCNode Id="b5bf01e3-ffb3-4c3d-bcde-b7ac5851854e" Title="Deserialize Method " Url="html/9626f4bb-1180-2131-da78-ba8ce4fcd852.htm">
+          <HelpTOCNode Id="84605c38-6caa-4228-93c1-ea18005d70e9" Title="Deserialize Method " Url="html/9626f4bb-1180-2131-da78-ba8ce4fcd852.htm">
             <HelpTOCNode Title="Deserialize(T) Method (JsonReader, T)" Url="html/31ecdc7f-9176-73e2-12b4-4cbe9ec46d3f.htm" />
             <HelpTOCNode Title="Deserialize(T1, T2) Method (JsonReader, T1, T2)" Url="html/9a252bf8-9549-03e5-f441-2003ee5d2f74.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="6c64d901-f2e9-4d31-b75e-e713f2574164" Title="Serialize Method " Url="html/6e5c4dd3-9028-e1ea-f6c8-ae2c35b8d8ce.htm">
+          <HelpTOCNode Id="b3e2ba95-8443-45ce-8bac-364335251086" Title="Serialize Method " Url="html/6e5c4dd3-9028-e1ea-f6c8-ae2c35b8d8ce.htm">
             <HelpTOCNode Title="Serialize(T) Method (JsonWriter, T)" Url="html/f7580e8c-fd02-e6f9-8e74-6066a8430e56.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="2feaef15-0e03-4bfa-a050-9eee2b36d6b9" Title="ETradeNet.Accounts Namespaces" Url="html/4a88b010-0e2e-9500-f6ed-b05704fed22c.htm">
-      <HelpTOCNode Id="d0e19e5c-bb09-4e23-b00b-3fc6dd7799d9" Title="ETradeNet.Accounts" Url="html/f5199aa8-f0e4-2741-523e-2fe507d13b29.htm">
-        <HelpTOCNode Id="7c9b2e61-fdf4-4661-a05a-ee456da75280" Title="AccountsInitializer Class" Url="html/3bbdeb6b-45f8-dcdf-62f1-407438d19b90.htm">
-          <HelpTOCNode Id="51139cc0-c1fd-498d-9004-0e2bb21b9148" Title="AccountsInitializer Constructor " Url="html/ebc0b213-0bad-fe0f-b8be-2362bb440e8d.htm">
+    <HelpTOCNode Id="f48104da-4625-45c1-ac5e-e4349ae001da" Title="ETradeNet.Accounts Namespaces" Url="html/4a88b010-0e2e-9500-f6ed-b05704fed22c.htm">
+      <HelpTOCNode Id="db693742-eef7-45b3-ab36-8649716e1feb" Title="ETradeNet.Accounts" Url="html/f5199aa8-f0e4-2741-523e-2fe507d13b29.htm">
+        <HelpTOCNode Id="2d7da1ea-c422-45f0-8733-4deae7831079" Title="AccountsInitializer Class" Url="html/3bbdeb6b-45f8-dcdf-62f1-407438d19b90.htm">
+          <HelpTOCNode Id="4c4926e3-d43a-4440-9385-6e3ec1c6ca41" Title="AccountsInitializer Constructor " Url="html/ebc0b213-0bad-fe0f-b8be-2362bb440e8d.htm">
             <HelpTOCNode Title="AccountsInitializer Constructor " Url="html/61d7a276-d13c-0831-0fff-b09b69134ccc.htm" />
             <HelpTOCNode Title="AccountsInitializer Constructor (String)" Url="html/69f28ad6-7081-7f24-c711-99c0f7b30ec3.htm" />
             <HelpTOCNode Title="AccountsInitializer Constructor (Uri)" Url="html/0e9db9ed-d942-eda9-8205-a0472675f6d0.htm" />
             <HelpTOCNode Title="AccountsInitializer Constructor (Uri, String)" Url="html/a6113520-4d80-b0e6-8cbd-2ad941424db0.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="d7556ee7-97f8-46e1-b65a-b759252cdb02" Title="AccountsInitializer Properties" Url="html/2cd63ebf-054d-1aa1-9cc6-530ba213bb85.htm">
+          <HelpTOCNode Id="97f254eb-7aee-4429-929c-6a56534cd081" Title="AccountsInitializer Properties" Url="html/2cd63ebf-054d-1aa1-9cc6-530ba213bb85.htm">
             <HelpTOCNode Title="LogProvider Property " Url="html/baf630ea-4e4a-3a8c-059c-5bf34546b2e1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="1c8055d1-729b-4010-8975-43a99effb95d" Title="AccountsInitializer Methods" Url="html/1e875dcd-999e-8d5e-fb55-6c888757bb77.htm">
+          <HelpTOCNode Id="c7523631-9235-4ff5-8389-94d0dab01f27" Title="AccountsInitializer Methods" Url="html/1e875dcd-999e-8d5e-fb55-6c888757bb77.htm">
             <HelpTOCNode Title="CreateClientFactory Method " Url="html/d4096ec6-7c4e-7a6d-05ff-585599a7415b.htm" />
             <HelpTOCNode Title="CreateSerializer Method " Url="html/81cc377b-c26b-736f-d874-1e7f7c4452a3.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="4205b631-dcfb-44ce-99db-03439ef2698c" Title="AccountsParameters Class" Url="html/4e3cbbd8-dba7-71bd-83b6-7380f2d74585.htm">
+        <HelpTOCNode Id="d0d19457-be2a-4233-b48c-dc3844ec8b43" Title="AccountsParameters Class" Url="html/4e3cbbd8-dba7-71bd-83b6-7380f2d74585.htm">
           <HelpTOCNode Title="AccountsParameters Constructor " Url="html/b677586f-8288-98b5-d429-4ef6141281df.htm" />
-          <HelpTOCNode Id="d3384f10-8b00-474f-a8e9-8bb9654d3ddf" Title="AccountsParameters Properties" Url="html/87821402-0a25-2a06-bae2-9afd7293f202.htm">
+          <HelpTOCNode Id="46d79d02-ccfb-40c0-97b1-b913b4ba51a0" Title="AccountsParameters Properties" Url="html/87821402-0a25-2a06-bae2-9afd7293f202.htm">
             <HelpTOCNode Title="OauthConsumerKey Property " Url="html/514e877e-0d20-762d-4da9-3364bc69cb75.htm" />
             <HelpTOCNode Title="OauthNonce Property " Url="html/b2930960-02aa-52f1-56c4-7fcdb64b5f36.htm" />
             <HelpTOCNode Title="OauthSignature Property " Url="html/2f08a0d5-0e86-c0d2-ac5c-ef11174a0a64.htm" />
@@ -84,90 +84,90 @@
             <HelpTOCNode Title="OauthTimestamp Property " Url="html/e203b6cb-264c-47e1-0955-041b063c1e55.htm" />
             <HelpTOCNode Title="OauthToken Property " Url="html/eec444f0-32dc-7ce9-73d7-712e438db4f7.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="51bfbfa3-24a7-404b-8984-be5949042847" Title="AccountsParameters Methods" Url="html/c3d4187c-e28a-1424-9fdd-9c2f8da7f664.htm">
+          <HelpTOCNode Id="f97007c3-9c0c-4eaa-b847-e95a7562f642" Title="AccountsParameters Methods" Url="html/c3d4187c-e28a-1424-9fdd-9c2f8da7f664.htm">
             <HelpTOCNode Title="Validate Method " Url="html/f1dab457-4b58-ad4e-d071-593c60b879cb.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="aeaae146-acf2-4270-a77a-ad1f80b32a90" Title="AccountsSandboxInitializer Class" Url="html/a2ba08f5-98db-bbf0-242e-b208cbae311d.htm">
+        <HelpTOCNode Id="9e397ec3-845e-4921-9f5c-d93f5e7ac297" Title="AccountsSandboxInitializer Class" Url="html/a2ba08f5-98db-bbf0-242e-b208cbae311d.htm">
           <HelpTOCNode Title="AccountsSandboxInitializer Constructor " Url="html/b60757c9-109b-de97-623f-ae76db70eb48.htm" />
           <HelpTOCNode Title="AccountsSandboxInitializer Properties" Url="html/70656ece-3f03-f593-5992-c615612c024d.htm" />
           <HelpTOCNode Title="AccountsSandboxInitializer Methods" Url="html/0c67a9e3-f6e3-5bda-2d53-006780da2160.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="f69631e6-dc60-4f56-8392-df6ad0205575" Title="AccountsService Class" Url="html/d70798ad-d1a7-fcf8-e09d-7f5fb6f54f98.htm">
+        <HelpTOCNode Id="b2d13abf-50b8-4311-a59c-58ab98df21f8" Title="AccountsService Class" Url="html/d70798ad-d1a7-fcf8-e09d-7f5fb6f54f98.htm">
           <HelpTOCNode Title="AccountsService Constructor " Url="html/ac7c0ef8-33ee-0353-b9a8-2bf49662f381.htm" />
-          <HelpTOCNode Id="c24ce234-fa71-457a-be1e-019aaaf83a85" Title="AccountsService Properties" Url="html/ad2c831d-e8b4-bb02-004e-442427068d3b.htm">
+          <HelpTOCNode Id="9f361f41-b96c-43b4-9cbf-07917763236b" Title="AccountsService Properties" Url="html/ad2c831d-e8b4-bb02-004e-442427068d3b.htm">
             <HelpTOCNode Title="Alerts Property " Url="html/e72fdf83-0c2b-acfe-c5a1-27bcf7e7227d.htm" />
             <HelpTOCNode Title="Balance Property " Url="html/1cbea19b-9b22-9c3e-c687-4830a94ce895.htm" />
             <HelpTOCNode Title="Positions Property " Url="html/4cb94570-1b89-ec72-ba86-9b7ae5b24722.htm" />
             <HelpTOCNode Title="Transactions Property " Url="html/c754ee2a-d822-4425-0490-679b47bd2bdc.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="5bf8461c-e3c6-46de-afc4-442b12f11724" Title="AccountsService Methods" Url="html/2ee856fb-31c0-8f6c-22bd-4fd7e8d8705f.htm">
+          <HelpTOCNode Id="b3b92ba0-c00f-4f0b-8c1f-c1f290ab6d8d" Title="AccountsService Methods" Url="html/2ee856fb-31c0-8f6c-22bd-4fd7e8d8705f.htm">
             <HelpTOCNode Title="Dispose Method " Url="html/9ef15bb0-abde-cab3-6aed-08ef37efb435.htm" />
             <HelpTOCNode Title="GetListAsStreamAsync Method " Url="html/91c0b67c-bedc-31c2-7e2a-17b6183cb4e8.htm" />
-            <HelpTOCNode Id="6db912df-2981-41b4-9baa-06da9623fa58" Title="GetListAsync Method " Url="html/4b176205-de9a-ddbb-6f8f-6bbeb4592206.htm">
+            <HelpTOCNode Id="e61e62ac-3212-476d-8c4c-2adac7c32f49" Title="GetListAsync Method " Url="html/4b176205-de9a-ddbb-6f8f-6bbeb4592206.htm">
               <HelpTOCNode Title="GetListAsync Method (AccountsParameters)" Url="html/becde375-6e6d-0349-600a-813ac3661baf.htm" />
               <HelpTOCNode Title="GetListAsync Method (AccountsParameters, CancellationToken)" Url="html/7c8a4493-5500-8eb9-8b43-b10cc760508b.htm" />
             </HelpTOCNode>
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="31cd9f43-78f9-4dda-9d45-e8707afa7d45" Title="IAccountsInitializer Interface" Url="html/52cc9666-07d1-d706-bab1-bd782fa5dc35.htm">
-          <HelpTOCNode Id="d55f5763-6fdd-4913-8614-af54ffe768e4" Title="IAccountsInitializer Properties" Url="html/39da56c4-a0a1-ae2f-f1e2-833d5ca20608.htm">
+        <HelpTOCNode Id="c57b9390-4e28-4ca8-a007-3aa70693fd26" Title="IAccountsInitializer Interface" Url="html/52cc9666-07d1-d706-bab1-bd782fa5dc35.htm">
+          <HelpTOCNode Id="c1ddefe5-4b4f-4125-a22f-2cfafd97d69d" Title="IAccountsInitializer Properties" Url="html/39da56c4-a0a1-ae2f-f1e2-833d5ca20608.htm">
             <HelpTOCNode Title="LogProvider Property " Url="html/63dcb0ba-853c-1658-1266-ea0fa75ce2b5.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="f3fec33b-f2c9-4003-910d-47804d6087d0" Title="IAccountsInitializer Methods" Url="html/7300bbce-a1b7-580a-f482-b27a32656cb5.htm">
+          <HelpTOCNode Id="adbf3d44-dd67-427d-b840-4b1a0155041b" Title="IAccountsInitializer Methods" Url="html/7300bbce-a1b7-580a-f482-b27a32656cb5.htm">
             <HelpTOCNode Title="CreateContext Method " Url="html/02368b35-88e9-d995-6f39-f8d575bebe9f.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="63f1a735-4573-4007-bc90-13653bf67549" Title="IAccountsService Interface" Url="html/e55bdd65-92b5-3cf1-40a4-7a349ec872f3.htm">
-          <HelpTOCNode Id="3ea9851b-7d75-4fb2-a4ff-29877cc5df2b" Title="IAccountsService Properties" Url="html/0a8db616-0d9c-32c0-2de9-81c4e73382e8.htm">
+        <HelpTOCNode Id="bbc8d83f-8f16-4428-86c5-c0a55b50e9a4" Title="IAccountsService Interface" Url="html/e55bdd65-92b5-3cf1-40a4-7a349ec872f3.htm">
+          <HelpTOCNode Id="4e7fb44d-4daf-4ff7-a87a-6dd89a33dc09" Title="IAccountsService Properties" Url="html/0a8db616-0d9c-32c0-2de9-81c4e73382e8.htm">
             <HelpTOCNode Title="Alerts Property " Url="html/0f2817ad-16cf-7d14-d751-f3efdb367ed8.htm" />
             <HelpTOCNode Title="Balance Property " Url="html/4b4c8d9b-41a7-d163-7a6c-fc466f375c26.htm" />
             <HelpTOCNode Title="Positions Property " Url="html/3a9956b3-0623-fc8f-f477-f0c2076bca8f.htm" />
             <HelpTOCNode Title="Transactions Property " Url="html/d4edbbdb-2b96-f78d-bf80-9d0da21e12c4.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="af94a514-16b7-4d16-b91b-07bdfc6deb6d" Title="IAccountsService Methods" Url="html/1bc4bef7-aeec-27cb-123a-986f45e4c9ad.htm">
+          <HelpTOCNode Id="e6d494e8-775d-4414-b68b-362719de8fee" Title="IAccountsService Methods" Url="html/1bc4bef7-aeec-27cb-123a-986f45e4c9ad.htm">
             <HelpTOCNode Title="GetListAsStreamAsync Method " Url="html/96e8983d-0713-1f43-8abe-b2099cb6ac5c.htm" />
-            <HelpTOCNode Id="a27cc081-b246-4b1a-9a83-daddb89d23be" Title="GetListAsync Method " Url="html/4a357834-e5ad-2b17-d632-7d6fb36cddb5.htm">
+            <HelpTOCNode Id="f3487f20-e780-4a71-b44f-3ba90fd02dae" Title="GetListAsync Method " Url="html/4a357834-e5ad-2b17-d632-7d6fb36cddb5.htm">
               <HelpTOCNode Title="GetListAsync Method (AccountsParameters)" Url="html/16610b7d-40e7-40a2-7c2a-3184ec941c7b.htm" />
               <HelpTOCNode Title="GetListAsync Method (AccountsParameters, CancellationToken)" Url="html/9b9c42b3-285e-440c-6971-5d50cd3f43ec.htm" />
             </HelpTOCNode>
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="f9856b11-8648-496e-901d-6d1bace160ed" Title="IGetListResponse Interface" Url="html/01afde1a-fb51-e96c-3e8d-dc757eb2b615.htm">
-          <HelpTOCNode Id="278ecdf0-de76-4928-a17b-a608af0516b2" Title="IGetListResponse Properties" Url="html/846f82e1-e697-c17b-5182-bf470cd02682.htm">
+        <HelpTOCNode Id="02d16864-cda2-4e49-b207-9684e54ee9a8" Title="IGetListResponse Interface" Url="html/01afde1a-fb51-e96c-3e8d-dc757eb2b615.htm">
+          <HelpTOCNode Id="e2b65655-959b-43f2-b25f-856dc10760c3" Title="IGetListResponse Properties" Url="html/846f82e1-e697-c17b-5182-bf470cd02682.htm">
             <HelpTOCNode Title="Account Property " Url="html/6f61e9a6-1f9d-1420-3ea6-4bb3542a90e1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="IGetListResponse Events" Url="html/1a5a4139-2621-c9ae-ce6a-dbd2fb39d265.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="fc20b59d-e2b2-402c-b01d-c95303318fcb" Title="ETradeNet.Accounts.Alerts Namespaces" Url="html/fbf09e99-9974-f9d0-eb12-80c6d07dd4fa.htm">
-        <HelpTOCNode Id="1c86ce2c-a3f6-4bf3-afaf-21e01a3821e6" Title="ETradeNet.Accounts.Alerts" Url="html/02ffe8dc-c8d1-e2f9-7a86-04e5f189b2b5.htm">
-          <HelpTOCNode Id="2d5945c7-cb2b-48f6-a79a-9cfc4c0a6a51" Title="IAlertsResource Interface" Url="html/03c5b3aa-712c-bf99-b6cf-1b2a7e06ec2b.htm">
-            <HelpTOCNode Id="ea760457-e789-4129-b0a6-0968e5b5e8f8" Title="IAlertsResource Methods" Url="html/9a751678-c577-747a-af6d-917ac55bfbe2.htm">
-              <HelpTOCNode Id="2325ecaf-0ee9-47ba-821b-747032abea40" Title="DeleteAsync Method " Url="html/98653187-6b20-aeaa-e61f-3328fa98047b.htm">
+      <HelpTOCNode Id="08f47fc7-f0f4-4000-a1c3-8015b010d2b8" Title="ETradeNet.Accounts.Alerts Namespaces" Url="html/fbf09e99-9974-f9d0-eb12-80c6d07dd4fa.htm">
+        <HelpTOCNode Id="58dfcf91-f576-47f3-bec2-26c93b459529" Title="ETradeNet.Accounts.Alerts" Url="html/02ffe8dc-c8d1-e2f9-7a86-04e5f189b2b5.htm">
+          <HelpTOCNode Id="374b72a7-3c3d-4933-8d82-0e59a2ef7bf6" Title="IAlertsResource Interface" Url="html/03c5b3aa-712c-bf99-b6cf-1b2a7e06ec2b.htm">
+            <HelpTOCNode Id="c0a460aa-8e36-4d46-8de3-cd4ff0dce973" Title="IAlertsResource Methods" Url="html/9a751678-c577-747a-af6d-917ac55bfbe2.htm">
+              <HelpTOCNode Id="37ea47d8-f07f-4d72-a15c-cfe8be90d682" Title="DeleteAsync Method " Url="html/98653187-6b20-aeaa-e61f-3328fa98047b.htm">
                 <HelpTOCNode Title="DeleteAsync Method (String, AccountsParameters)" Url="html/8747af59-7526-5a44-4b74-85d51598954b.htm" />
                 <HelpTOCNode Title="DeleteAsync Method (String, AccountsParameters, CancellationToken)" Url="html/5080b8a8-c390-b002-2802-9145fe06f768.htm" />
               </HelpTOCNode>
               <HelpTOCNode Title="GetDetailsAsStreamAsync Method " Url="html/9e147cac-ccf0-2371-95c7-4bcf159ed0f8.htm" />
-              <HelpTOCNode Id="2a0a240f-a5b5-4a14-a311-2e7de5983933" Title="GetDetailsAsync Method " Url="html/763e43f0-8744-8164-7e62-9b139ea0d713.htm">
+              <HelpTOCNode Id="45811dd5-b82a-4e66-9d01-128faa6d0436" Title="GetDetailsAsync Method " Url="html/763e43f0-8744-8164-7e62-9b139ea0d713.htm">
                 <HelpTOCNode Title="GetDetailsAsync Method (String, AccountsParameters)" Url="html/7ec8e8df-8965-6e61-18aa-132c3adb4fc9.htm" />
                 <HelpTOCNode Title="GetDetailsAsync Method (String, AccountsParameters, CancellationToken)" Url="html/59eda721-48a0-5387-cd20-bae173ca5c21.htm" />
               </HelpTOCNode>
               <HelpTOCNode Title="GetListAsStreamAsync Method " Url="html/3ee45628-9d87-0ae0-6658-65ee4f031f98.htm" />
-              <HelpTOCNode Id="ce65eddb-83b6-461c-a91d-ff710178e6dc" Title="GetListAsync Method " Url="html/69f73ccb-dda1-8919-379f-6e22e97e4e11.htm">
+              <HelpTOCNode Id="d7d5d81d-be30-4796-88f4-b1a1be019206" Title="GetListAsync Method " Url="html/69f73ccb-dda1-8919-379f-6e22e97e4e11.htm">
                 <HelpTOCNode Title="GetListAsync Method (AccountsParameters)" Url="html/48d30b14-39c9-fe5c-fa7f-1e25a1330b97.htm" />
                 <HelpTOCNode Title="GetListAsync Method (AccountsParameters, CancellationToken)" Url="html/6923a24b-4261-c405-7edb-b49bf9b4af2c.htm" />
               </HelpTOCNode>
             </HelpTOCNode>
           </HelpTOCNode>
-          <HelpTOCNode Id="8a712396-1c4f-4f70-b8a7-13e694a1cbc2" Title="IDeleteResponse Interface" Url="html/d8129633-344d-46de-0bcd-3322ea382657.htm">
-            <HelpTOCNode Id="3ba34d08-5d5f-471d-aee9-676b4f54d27f" Title="IDeleteResponse Properties" Url="html/f47b0613-e244-e442-07ba-e74f1a003fd7.htm">
+          <HelpTOCNode Id="f536ebd4-9ba5-486b-adac-d6aac745bf6e" Title="IDeleteResponse Interface" Url="html/d8129633-344d-46de-0bcd-3322ea382657.htm">
+            <HelpTOCNode Id="48b4aad4-65b0-4665-aadf-8da0828e20ae" Title="IDeleteResponse Properties" Url="html/f47b0613-e244-e442-07ba-e74f1a003fd7.htm">
               <HelpTOCNode Title="Result Property " Url="html/fb191521-7750-b2a4-e7f4-ad79bc80555d.htm" />
             </HelpTOCNode>
             <HelpTOCNode Title="IDeleteResponse Events" Url="html/1ca9055b-3626-766a-48fc-563a82de42ae.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="189b409f-d552-4a27-adfa-89b2e48a45b8" Title="IGetDetailsResponse Interface" Url="html/91c16ed9-d0cb-8c29-ef69-1fe7d1525594.htm">
-            <HelpTOCNode Id="be53a428-eb18-4193-bf46-90d537040166" Title="IGetDetailsResponse Properties" Url="html/f6ad307d-3f70-a74c-10cf-6bd647172838.htm">
+          <HelpTOCNode Id="0e301ba6-c47c-4dbc-a19f-cbd0ec49bea2" Title="IGetDetailsResponse Interface" Url="html/91c16ed9-d0cb-8c29-ef69-1fe7d1525594.htm">
+            <HelpTOCNode Id="c3d414e8-7cc0-4567-8962-33cb77cdce57" Title="IGetDetailsResponse Properties" Url="html/f6ad307d-3f70-a74c-10cf-6bd647172838.htm">
               <HelpTOCNode Title="AlertId Property " Url="html/96889499-a35c-6e35-33ba-0b3ca7e3512b.htm" />
               <HelpTOCNode Title="CreateDateTime Property " Url="html/5cd20155-f116-9066-eaa5-3a1b4f63fd47.htm" />
               <HelpTOCNode Title="MsgText Property " Url="html/b6f91611-9d2d-74f8-2ccd-9942a6213ba9.htm" />
@@ -176,17 +176,17 @@
             </HelpTOCNode>
             <HelpTOCNode Title="IGetDetailsResponse Events" Url="html/eb268ff9-ff80-2232-3940-907286978586.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="ed1656a4-8d43-49a7-8faf-57ff272fab3d" Title="IGetListResponse Interface" Url="html/13d3fc1e-a0c4-dd78-d6f1-9f2c26857a33.htm">
-            <HelpTOCNode Id="e9edd987-41fb-4238-abcf-7e3c3f1cae28" Title="IGetListResponse Properties" Url="html/d0977afb-baea-0a8c-a14a-23f730d7bf9a.htm">
+          <HelpTOCNode Id="b2ca4e77-1d5f-4a58-98b3-298c6086a9eb" Title="IGetListResponse Interface" Url="html/13d3fc1e-a0c4-dd78-d6f1-9f2c26857a33.htm">
+            <HelpTOCNode Id="c29b899e-5d6a-47ae-aad7-c15a486f51e0" Title="IGetListResponse Properties" Url="html/d0977afb-baea-0a8c-a14a-23f730d7bf9a.htm">
               <HelpTOCNode Title="Alerts Property " Url="html/d291546c-11dd-393b-d896-0d3cac76c2e6.htm" />
             </HelpTOCNode>
             <HelpTOCNode Title="IGetListResponse Events" Url="html/848fc7f5-b5b2-df8e-0691-8c8e8b2b3334.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="9abc668d-c256-4c02-a7c2-9f1f408c91d6" Title="ETradeNet.Accounts.Alerts.Data" Url="html/bcbd28e4-678b-5d29-d2ff-d1156b64da9b.htm">
-          <HelpTOCNode Id="064c4a3c-ba7d-4c6a-b5bb-7d06e2fda26d" Title="Alert Class" Url="html/c6ca9d76-8b58-8443-1d6e-d267617fcd81.htm">
+        <HelpTOCNode Id="313a5601-186f-48cb-9b58-f268f1e35ce8" Title="ETradeNet.Accounts.Alerts.Data" Url="html/bcbd28e4-678b-5d29-d2ff-d1156b64da9b.htm">
+          <HelpTOCNode Id="e93fba30-ff1b-427b-b968-7c7745f36f58" Title="Alert Class" Url="html/c6ca9d76-8b58-8443-1d6e-d267617fcd81.htm">
             <HelpTOCNode Title="Alert Constructor " Url="html/5e487a80-11d7-534a-c674-02ef0443d9b0.htm" />
-            <HelpTOCNode Id="3d567a76-3f37-45c3-aa9e-219da023458a" Title="Alert Properties" Url="html/749330d8-5936-1ffd-0292-ae7a6623b6b6.htm">
+            <HelpTOCNode Id="c778ae1f-c794-4986-bded-c851738c55ed" Title="Alert Properties" Url="html/749330d8-5936-1ffd-0292-ae7a6623b6b6.htm">
               <HelpTOCNode Title="AlertId Property " Url="html/d8414be3-ffc9-6386-2e15-bccdb5c02706.htm" />
               <HelpTOCNode Title="DateTime Property " Url="html/13307c18-dc94-c9a4-15ad-8ebc1ba00989.htm" />
               <HelpTOCNode Title="DateTime2 Property " Url="html/86e3c93a-0c5e-4600-2c2a-1dafca634515.htm" />
@@ -194,16 +194,16 @@
               <HelpTOCNode Title="Subject Property " Url="html/2359624c-6f1d-5916-c5ad-1c6614008b31.htm" />
               <HelpTOCNode Title="Symbol Property " Url="html/09fe1a46-e31d-aa52-0a17-37f683956220.htm" />
             </HelpTOCNode>
-            <HelpTOCNode Id="3a197d01-e4f8-49db-9d68-84665d2d7709" Title="Alert Methods" Url="html/4a6cbb2d-5ad5-6bdb-a090-efa42c40de56.htm">
-              <HelpTOCNode Id="4f1722de-550d-4397-bead-1a8de4aa7639" Title="OnPropertyChanged Method " Url="html/a4139ac1-12d4-074c-d010-01b550b454c5.htm">
+            <HelpTOCNode Id="0fc11d41-cfa5-4938-9a11-3627bf51c0e6" Title="Alert Methods" Url="html/4a6cbb2d-5ad5-6bdb-a090-efa42c40de56.htm">
+              <HelpTOCNode Id="36f977a1-ac08-492b-b4e9-1a5fff53307f" Title="OnPropertyChanged Method " Url="html/a4139ac1-12d4-074c-d010-01b550b454c5.htm">
                 <HelpTOCNode Title="OnPropertyChanged Method (String)" Url="html/35205c76-240d-b52c-88f0-4e58ca62de77.htm" />
               </HelpTOCNode>
             </HelpTOCNode>
             <HelpTOCNode Title="Alert Events" Url="html/c691c31b-9761-02e2-a13d-99dcc3c5a6ed.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="0db058ad-54c2-45d4-82a3-733c1a8a9cfd" Title="Alerts Class" Url="html/a9944a07-2bee-1b4a-0c30-e3303cc59c48.htm">
+          <HelpTOCNode Id="a8f99336-b0c6-4fc9-a963-6ebf6b129eec" Title="Alerts Class" Url="html/a9944a07-2bee-1b4a-0c30-e3303cc59c48.htm">
             <HelpTOCNode Title="Alerts Constructor " Url="html/92b5ff3a-7b79-98f0-62d0-90afd3477d3e.htm" />
-            <HelpTOCNode Id="a84542c2-c8ef-450a-bbe0-c4c11d1e4af9" Title="Alerts Properties" Url="html/018188ca-60b5-7326-121c-0c90cf1ffb2b.htm">
+            <HelpTOCNode Id="f9217de8-1c5d-4b6b-81f2-29e0fe075a86" Title="Alerts Properties" Url="html/018188ca-60b5-7326-121c-0c90cf1ffb2b.htm">
               <HelpTOCNode Title="Alert Property " Url="html/56657f8a-82d8-4205-f3f7-d294272b3229.htm" />
             </HelpTOCNode>
             <HelpTOCNode Title="Alerts Methods" Url="html/336df0ae-160a-a3d8-5973-91c805f9022f.htm" />
@@ -213,19 +213,19 @@
           <HelpTOCNode Title="Result Enumeration" Url="html/542691f5-f417-a9a8-f714-c9e694d2eb21.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="30f35a86-ca3c-40df-8052-a457a310fc8a" Title="ETradeNet.Accounts.Balance Namespaces" Url="html/67414829-386e-b8e1-e0a0-7e43aa67af60.htm">
-        <HelpTOCNode Id="8114a641-8882-4030-9e54-d4e2c8b173e4" Title="ETradeNet.Accounts.Balance" Url="html/0f34c76c-c78a-b631-f5c5-08b9395ff3e3.htm">
-          <HelpTOCNode Id="398a695d-0f3a-4e65-805a-494fc0015749" Title="IBalanceResource Interface" Url="html/65bce8f8-c4db-df4c-98de-daf6af76ac68.htm">
-            <HelpTOCNode Id="a4b09c99-26d1-4dc0-b320-15f9606952cb" Title="IBalanceResource Methods" Url="html/84d2e806-f3e9-e617-bfa7-1073d159ae0d.htm">
+      <HelpTOCNode Id="cfa00ef9-a666-44cd-9d75-082478724787" Title="ETradeNet.Accounts.Balance Namespaces" Url="html/67414829-386e-b8e1-e0a0-7e43aa67af60.htm">
+        <HelpTOCNode Id="67ec2f42-19fb-4c29-b3cf-ee394b148def" Title="ETradeNet.Accounts.Balance" Url="html/0f34c76c-c78a-b631-f5c5-08b9395ff3e3.htm">
+          <HelpTOCNode Id="db8d5646-5403-427f-bbaf-c277afd36aa9" Title="IBalanceResource Interface" Url="html/65bce8f8-c4db-df4c-98de-daf6af76ac68.htm">
+            <HelpTOCNode Id="e64ceaca-c99d-4d5b-9100-0f8ecf654a5b" Title="IBalanceResource Methods" Url="html/84d2e806-f3e9-e617-bfa7-1073d159ae0d.htm">
               <HelpTOCNode Title="GetDetailsAsStreamAsync Method " Url="html/7ac7a6f4-6823-d66c-6602-d3abc8ec9c89.htm" />
-              <HelpTOCNode Id="4b9c7219-f145-4ede-b8f9-b76c97302cf4" Title="GetDetailsAsync Method " Url="html/4dac004c-f481-3b0a-7c57-a76d41640b0f.htm">
+              <HelpTOCNode Id="bb62145b-211e-4ad6-b709-92caa73664f4" Title="GetDetailsAsync Method " Url="html/4dac004c-f481-3b0a-7c57-a76d41640b0f.htm">
                 <HelpTOCNode Title="GetDetailsAsync Method (String, AccountsParameters)" Url="html/d4c59fb1-f920-0557-fa6e-37fad857216b.htm" />
                 <HelpTOCNode Title="GetDetailsAsync Method (String, AccountsParameters, CancellationToken)" Url="html/4ac7ff38-b034-9fdb-8a4c-2f2b23d93eda.htm" />
               </HelpTOCNode>
             </HelpTOCNode>
           </HelpTOCNode>
-          <HelpTOCNode Id="1f1c6cc6-3359-4d20-b85b-1d1b662acbe5" Title="IGetDetailsResponse Interface" Url="html/beab94f8-8a06-b181-9642-3694c0bfdaab.htm">
-            <HelpTOCNode Id="f8a71447-5037-4ec4-9445-f302402b6bbe" Title="IGetDetailsResponse Properties" Url="html/3bf48c8c-2b1c-6c73-3171-a7bfd909dd02.htm">
+          <HelpTOCNode Id="e77ed3b5-9737-4b2b-b2d3-01bdb65ec671" Title="IGetDetailsResponse Interface" Url="html/beab94f8-8a06-b181-9642-3694c0bfdaab.htm">
+            <HelpTOCNode Id="b9207b87-eb5f-487d-8263-052ee8f015fe" Title="IGetDetailsResponse Properties" Url="html/3bf48c8c-2b1c-6c73-3171-a7bfd909dd02.htm">
               <HelpTOCNode Title="AccountBalance Property " Url="html/6f037de0-27d1-2ed5-9210-521b75a41bc4.htm" />
               <HelpTOCNode Title="AccountId Property " Url="html/b8900d84-0e7b-103e-8221-64433e5564bf.htm" />
               <HelpTOCNode Title="AccountType Property " Url="html/1e49c0ba-d542-99f2-9961-918dfa1a0e50.htm" />
@@ -237,10 +237,10 @@
             <HelpTOCNode Title="IGetDetailsResponse Events" Url="html/ffb86239-0293-9141-321d-7d6b0d37b751.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="fe1e96d2-1c93-4866-936d-3ed821599871" Title="ETradeNet.Accounts.Balance.Data" Url="html/010d9c27-7a49-76eb-671c-303a53f6dc7d.htm">
-          <HelpTOCNode Id="84260736-6672-4df9-9fca-6e4ca285f8ec" Title="AccountBalance Class" Url="html/53241f28-d9a8-dc10-6fb0-334735e8180a.htm">
+        <HelpTOCNode Id="60020ecb-b861-4a2b-8bc3-6f2f03e6dcca" Title="ETradeNet.Accounts.Balance.Data" Url="html/010d9c27-7a49-76eb-671c-303a53f6dc7d.htm">
+          <HelpTOCNode Id="26b5b153-a5da-45bc-b6c1-009e7a818f05" Title="AccountBalance Class" Url="html/53241f28-d9a8-dc10-6fb0-334735e8180a.htm">
             <HelpTOCNode Title="AccountBalance Constructor " Url="html/a1dcfc0a-7df2-1861-c51e-998613078e61.htm" />
-            <HelpTOCNode Id="d539c03b-8afa-4863-ae8e-5d342f76ac61" Title="AccountBalance Properties" Url="html/d391763e-68e6-ed7e-a16f-60ccb9218bb8.htm">
+            <HelpTOCNode Id="e068a540-7162-4975-b7b5-6d083633b7c2" Title="AccountBalance Properties" Url="html/d391763e-68e6-ed7e-a16f-60ccb9218bb8.htm">
               <HelpTOCNode Title="CashAvailableForWithdrawal Property " Url="html/8a5a12cb-1cbe-e18f-4ab0-ae75a74294ef.htm" />
               <HelpTOCNode Title="CashCall Property " Url="html/40b053fa-76e5-8b3c-94b8-9f33db306140.htm" />
               <HelpTOCNode Title="FundsWithheldFromPurchasePower Property " Url="html/70b60cb4-d424-6888-8bb1-a7c72cc6ddd8.htm" />
@@ -256,9 +256,9 @@
             <HelpTOCNode Title="AccountBalance Events" Url="html/eae7e7b2-9135-a543-c07b-074f31d803a4.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="AccountType Enumeration" Url="html/bc38a08b-65b4-162e-21c1-10b2160fd421.htm" />
-          <HelpTOCNode Id="36e647be-8256-4712-859c-8798eecd102f" Title="CashAccountBalance Class" Url="html/dc2b354f-f183-b6c9-cc9f-213bce3a4576.htm">
+          <HelpTOCNode Id="fdefc3d5-8b4f-4e6b-b882-eb62c6440a83" Title="CashAccountBalance Class" Url="html/dc2b354f-f183-b6c9-cc9f-213bce3a4576.htm">
             <HelpTOCNode Title="CashAccountBalance Constructor " Url="html/213d0a2e-48b5-49d1-03dc-be9101926a8e.htm" />
-            <HelpTOCNode Id="315429bb-d7be-48b3-9e85-77d2d30c85ea" Title="CashAccountBalance Properties" Url="html/e15e049a-c90c-587c-56cc-18b8429d9664.htm">
+            <HelpTOCNode Id="4cbffd20-1c75-41e3-ae99-85479f6251ca" Title="CashAccountBalance Properties" Url="html/e15e049a-c90c-587c-56cc-18b8429d9664.htm">
               <HelpTOCNode Title="CashAvailableForInvestment Property " Url="html/59a39135-d161-43d5-0a39-b16635aff7d3.htm" />
               <HelpTOCNode Title="CashBalance Property " Url="html/7643150f-f87f-af02-f43c-8b0123b7c048.htm" />
               <HelpTOCNode Title="SettledCashForInvestment Property " Url="html/ad679173-0b47-5c1a-b89c-6e9383e6f3ee.htm" />
@@ -267,9 +267,9 @@
             <HelpTOCNode Title="CashAccountBalance Methods" Url="html/3004e094-edfe-889a-846e-deaa16c0de00.htm" />
             <HelpTOCNode Title="CashAccountBalance Events" Url="html/32da15d5-ffe6-3a09-6374-98599c5cc4ff.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="29693a1f-ef3c-4435-a90d-6bc19ed1cc1f" Title="DtBalance Class" Url="html/55bb34b7-78c2-e090-f896-63b64a32c4c2.htm">
+          <HelpTOCNode Id="afa39dd1-a6ee-4f07-978a-ba54462875a8" Title="DtBalance Class" Url="html/55bb34b7-78c2-e090-f896-63b64a32c4c2.htm">
             <HelpTOCNode Title="DtBalance Constructor " Url="html/ed8ba03e-325d-a31c-bc38-217f93b0f4f3.htm" />
-            <HelpTOCNode Id="9fa2cedd-c909-4fd5-8cf8-4330a6ff689b" Title="DtBalance Properties" Url="html/21fb7461-0d12-6b0a-77b6-1542b0d6d330.htm">
+            <HelpTOCNode Id="abe141cb-9ada-410b-94e3-a3ba3b2adf23" Title="DtBalance Properties" Url="html/21fb7461-0d12-6b0a-77b6-1542b0d6d330.htm">
               <HelpTOCNode Title="DtCashBalance Property " Url="html/4385f255-562f-f220-2a50-b54900a3d53f.htm" />
               <HelpTOCNode Title="DtMarginableSecurities Property " Url="html/0f0e4395-280e-f517-7bec-4714b5871481.htm" />
               <HelpTOCNode Title="DtMarginBalance Property " Url="html/77a37236-487a-79da-7ac8-bb7d5757b9d9.htm" />
@@ -280,9 +280,9 @@
             <HelpTOCNode Title="DtBalance Events" Url="html/3225bba1-3bc3-3449-9374-db0c3ae5d88c.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="DtStatus Enumeration" Url="html/9fe25bc7-dfcf-953b-12bc-47aeb5ce248e.htm" />
-          <HelpTOCNode Id="7a7657c2-3f99-4c48-9aef-6ff330ec6729" Title="MarginAccountBalance Class" Url="html/c954feb0-ce57-f580-cd02-c2d3b31fa6e2.htm">
+          <HelpTOCNode Id="9ad2ef8b-9ea8-45cf-9c43-17d53858abba" Title="MarginAccountBalance Class" Url="html/c954feb0-ce57-f580-cd02-c2d3b31fa6e2.htm">
             <HelpTOCNode Title="MarginAccountBalance Constructor " Url="html/6a8b9e63-5fdb-a048-bc7a-3d0cab5feb71.htm" />
-            <HelpTOCNode Id="32560d0c-bdd0-4b31-a45d-8224f5c39455" Title="MarginAccountBalance Properties" Url="html/5885fb0c-3ae1-b070-d0db-4a5c31880f04.htm">
+            <HelpTOCNode Id="5c99a8cf-fd98-4f44-8903-81ef0240c640" Title="MarginAccountBalance Properties" Url="html/5885fb0c-3ae1-b070-d0db-4a5c31880f04.htm">
               <HelpTOCNode Title="FedCall Property " Url="html/cfccb4a8-a75b-bbf2-72c9-ac0e370b26e2.htm" />
               <HelpTOCNode Title="MarginableSecurities Property " Url="html/af5cd3ab-68b8-e9d5-d95f-ea561e18f26a.htm" />
               <HelpTOCNode Title="MarginBalance Property " Url="html/7155951f-41d4-b3f6-1d89-62d773e1bb56.htm" />
@@ -301,10 +301,10 @@
           <HelpTOCNode Title="OptionLevel Enumeration" Url="html/ac6e2e21-953f-0c06-79de-6c87a7892303.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="ec1013cd-c041-4d4f-bff7-114d13036739" Title="ETradeNet.Accounts.Data" Url="html/945b61a8-acf7-a0ff-2bc1-1f173b37b923.htm">
-        <HelpTOCNode Id="e6a127b6-8888-48ed-b5f3-9768d9d947b1" Title="Account Class" Url="html/1943f583-a907-a0a5-5fc8-b8d9f89cf2e7.htm">
+      <HelpTOCNode Id="e079ef97-c301-437b-abd5-a515cb2d6dff" Title="ETradeNet.Accounts.Data" Url="html/945b61a8-acf7-a0ff-2bc1-1f173b37b923.htm">
+        <HelpTOCNode Id="3d1f8e17-4b35-4eed-90f5-a5b343ac1e2f" Title="Account Class" Url="html/1943f583-a907-a0a5-5fc8-b8d9f89cf2e7.htm">
           <HelpTOCNode Title="Account Constructor " Url="html/ed99fb64-89ca-a857-7c03-4393c840a363.htm" />
-          <HelpTOCNode Id="c71dea26-e21c-48bf-b44e-9f030952208d" Title="Account Properties" Url="html/b1b29bda-9b61-9c57-e9f4-d2ed938e7b0b.htm">
+          <HelpTOCNode Id="72c07580-81e0-42e7-beb2-bae560a6a096" Title="Account Properties" Url="html/b1b29bda-9b61-9c57-e9f4-d2ed938e7b0b.htm">
             <HelpTOCNode Title="AccountDesc Property " Url="html/18c59186-b9f5-09a9-37f8-9efd1aa6166f.htm" />
             <HelpTOCNode Title="AccountId Property " Url="html/907c8b40-bc34-0933-44f3-87dd18da71e3.htm" />
             <HelpTOCNode Title="MarginLevel Property " Url="html/7740cbc5-14c7-e80d-8f8f-f7ba3490d725.htm" />
@@ -318,10 +318,10 @@
         <HelpTOCNode Title="OauthSignatureMethod Enumeration" Url="html/9e9eaeee-28f7-5eb7-b646-5f1cd3ccad4c.htm" />
         <HelpTOCNode Title="RegistrationType Enumeration" Url="html/25036756-1481-712c-528e-56bdcd78b203.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="ecb31f93-fda9-43ee-b83b-7976e3894cd3" Title="ETradeNet.Accounts.Positions Namespaces" Url="html/2f71f8cd-4598-32ee-0bb8-77e367c0a0ce.htm">
-        <HelpTOCNode Id="27a945ee-214a-4973-b7a5-e7a7fc293395" Title="ETradeNet.Accounts.Positions" Url="html/647d3900-b28b-54f0-66da-82e563238790.htm">
-          <HelpTOCNode Id="25100f79-5582-4823-bf87-fbbda7ce2f44" Title="IGetListResponse Interface" Url="html/cbdddb3a-c2d3-2d15-6f5b-1cbe187f67ad.htm">
-            <HelpTOCNode Id="8b7380e4-efd3-4743-87c6-a01efae23ed4" Title="IGetListResponse Properties" Url="html/455474e4-7b53-cf4b-02bc-0a1b62118ace.htm">
+      <HelpTOCNode Id="31cb9162-aa11-4ec3-9c81-d04aeff35037" Title="ETradeNet.Accounts.Positions Namespaces" Url="html/2f71f8cd-4598-32ee-0bb8-77e367c0a0ce.htm">
+        <HelpTOCNode Id="64d797a0-7e1b-4a77-939e-1975abc3dd50" Title="ETradeNet.Accounts.Positions" Url="html/647d3900-b28b-54f0-66da-82e563238790.htm">
+          <HelpTOCNode Id="2ec980bb-b1dd-47e2-a134-3f3f71a58f24" Title="IGetListResponse Interface" Url="html/cbdddb3a-c2d3-2d15-6f5b-1cbe187f67ad.htm">
+            <HelpTOCNode Id="dbeaabed-65e9-489b-97f6-f829aac56354" Title="IGetListResponse Properties" Url="html/455474e4-7b53-cf4b-02bc-0a1b62118ace.htm">
               <HelpTOCNode Title="AccountId Property " Url="html/e61f3c1f-4eb1-d76f-98fd-a99f1d09d1a3.htm" />
               <HelpTOCNode Title="AccountPositions Property " Url="html/a36d86e2-0e5b-4c8e-cf6a-f7c03aee9dc2.htm" />
               <HelpTOCNode Title="Count Property " Url="html/d8dd985f-669b-35d3-a7e1-c85168c3cbb2.htm" />
@@ -329,20 +329,20 @@
             </HelpTOCNode>
             <HelpTOCNode Title="IGetListResponse Events" Url="html/4cc93122-1277-1a05-a225-24e40a4e7e95.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="2be43eb3-cb7f-4b83-8f59-7eec998009c2" Title="IPositionsResource Interface" Url="html/2112ff48-5cfb-4802-62aa-acfe16addf60.htm">
-            <HelpTOCNode Id="ecf4571b-770c-47a4-8142-0eac3ee3dc40" Title="IPositionsResource Methods" Url="html/f310a7a6-51af-2bdc-2599-e08483a1098e.htm">
+          <HelpTOCNode Id="6e83f0a0-96bb-401b-905a-6880d40d9cfb" Title="IPositionsResource Interface" Url="html/2112ff48-5cfb-4802-62aa-acfe16addf60.htm">
+            <HelpTOCNode Id="084a1253-ee7a-49de-a085-c056a6a1740e" Title="IPositionsResource Methods" Url="html/f310a7a6-51af-2bdc-2599-e08483a1098e.htm">
               <HelpTOCNode Title="GetListAsStreamAsync Method " Url="html/46a2edd8-28de-056b-cf09-20c16b3699f5.htm" />
-              <HelpTOCNode Id="6ad3a958-da14-4b72-9989-5cf711e2ed82" Title="GetListAsync Method " Url="html/9eb225ab-297c-c83a-3662-62e34b0bc42f.htm">
+              <HelpTOCNode Id="8795d509-c136-4ed7-b2bd-3c601faf7638" Title="GetListAsync Method " Url="html/9eb225ab-297c-c83a-3662-62e34b0bc42f.htm">
                 <HelpTOCNode Title="GetListAsync Method (String, Nullable(UInt32), String, Nullable(TypeCode), String, Nullable(CallOrPut), Nullable(DateTime), AccountsParameters)" Url="html/2737f933-edb0-c96a-2b6b-cf8ec5800978.htm" />
                 <HelpTOCNode Title="GetListAsync Method (String, Nullable(UInt32), String, Nullable(TypeCode), String, Nullable(CallOrPut), Nullable(DateTime), AccountsParameters, CancellationToken)" Url="html/2501da31-38b1-4ddb-aba0-c3c3d06dfcc3.htm" />
               </HelpTOCNode>
             </HelpTOCNode>
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="6389472d-5f20-4ebf-942e-dac2ca9384e2" Title="ETradeNet.Accounts.Positions.Data" Url="html/784618cd-a450-dc68-273d-86c21c8f18cc.htm">
-          <HelpTOCNode Id="88171a74-bc19-47ad-b125-e11a23628bba" Title="AccountPosition Class" Url="html/b28d89fa-defb-61f3-f7c8-0937a6baec3a.htm">
+        <HelpTOCNode Id="81251d1a-8742-481b-9a66-3eeef729924c" Title="ETradeNet.Accounts.Positions.Data" Url="html/784618cd-a450-dc68-273d-86c21c8f18cc.htm">
+          <HelpTOCNode Id="d1d7d7b5-eed2-4b4c-a137-820ab296f4e4" Title="AccountPosition Class" Url="html/b28d89fa-defb-61f3-f7c8-0937a6baec3a.htm">
             <HelpTOCNode Title="AccountPosition Constructor " Url="html/bf7d3c67-31e8-7b6e-952b-43d52c510a74.htm" />
-            <HelpTOCNode Id="b8cad819-48c5-4970-98dd-d115eef0c811" Title="AccountPosition Properties" Url="html/a8bde129-9363-fb1c-5355-3dff313bb548.htm">
+            <HelpTOCNode Id="7edd07ce-6724-44d3-871a-963ce5b7d7e2" Title="AccountPosition Properties" Url="html/a8bde129-9363-fb1c-5355-3dff313bb548.htm">
               <HelpTOCNode Title="AdjustedOption Property " Url="html/0a24eb7a-9564-ff63-8d4e-edc4bb7cf592.htm" />
               <HelpTOCNode Title="ClosePrice Property " Url="html/03c3fa40-363d-0baa-bb80-36b3224e2eda.htm" />
               <HelpTOCNode Title="CostBasis Property " Url="html/6417bb66-da7c-b792-ab97-5e0f4152a1a2.htm" />
@@ -359,9 +359,9 @@
             <HelpTOCNode Title="AccountPosition Methods" Url="html/44efc6c7-6a3e-934a-bfff-471379e30702.htm" />
             <HelpTOCNode Title="AccountPosition Events" Url="html/e5fcc9c9-978a-0a2b-b7f6-e0b2d945dd25.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="2a75034a-d453-410e-8ad3-6f4194485a32" Title="AccountPositions Class" Url="html/2f6a88f1-2122-2afa-84a8-f9954807d084.htm">
+          <HelpTOCNode Id="109d0483-acc6-40ba-9dc7-177a9645237f" Title="AccountPositions Class" Url="html/2f6a88f1-2122-2afa-84a8-f9954807d084.htm">
             <HelpTOCNode Title="AccountPositions Constructor " Url="html/29205a7b-0872-8e6e-7b04-56673ec3c9e1.htm" />
-            <HelpTOCNode Id="cc15dc3f-a18a-4745-afb0-6d9ccfd0259b" Title="AccountPositions Properties" Url="html/9398f7e0-001d-c7e5-f822-dcb2501f510c.htm">
+            <HelpTOCNode Id="0acecc39-9eb5-4f6c-b5b8-d06f3f16f504" Title="AccountPositions Properties" Url="html/9398f7e0-001d-c7e5-f822-dcb2501f510c.htm">
               <HelpTOCNode Title="AccountPosition Property " Url="html/7dedb453-032e-a595-332d-33235ed5c981.htm" />
             </HelpTOCNode>
             <HelpTOCNode Title="AccountPositions Methods" Url="html/0cec4379-3b06-b2bc-c739-3c909df5d9e0.htm" />
@@ -369,9 +369,9 @@
           </HelpTOCNode>
           <HelpTOCNode Title="CallOrPut Enumeration" Url="html/5c3008d1-e8c7-801a-c2bd-58e09db2e68e.htm" />
           <HelpTOCNode Title="LongOrShort Enumeration" Url="html/e5efaf19-f1a3-facb-c70d-1c8fa381cb2f.htm" />
-          <HelpTOCNode Id="220e03c8-8a1a-49f6-a627-3d93538a6f98" Title="ProductId Class" Url="html/00b38283-d538-a7dd-7359-13a0e81a62c3.htm">
+          <HelpTOCNode Id="28c6e6bf-c704-4c0a-b4aa-d753833d4b5f" Title="ProductId Class" Url="html/00b38283-d538-a7dd-7359-13a0e81a62c3.htm">
             <HelpTOCNode Title="ProductId Constructor " Url="html/ce54244e-900c-0681-9e96-e457be9ac133.htm" />
-            <HelpTOCNode Id="a8ffd8f9-8de4-4032-aecc-fb4004b6c9ae" Title="ProductId Properties" Url="html/83400ea6-c571-92ac-0694-ef014d805f27.htm">
+            <HelpTOCNode Id="9d94ed00-67d2-4f49-b091-b2201061d8c9" Title="ProductId Properties" Url="html/83400ea6-c571-92ac-0694-ef014d805f27.htm">
               <HelpTOCNode Title="CallPut Property " Url="html/70ae0f49-b314-1faf-c501-1d15cc672928.htm" />
               <HelpTOCNode Title="Date Property " Url="html/f3f1e928-f3c4-8393-34f1-4c0547af16f4.htm" />
               <HelpTOCNode Title="ExpDay Property " Url="html/a8d45ca0-fef6-fcfb-c16c-31107f6b72b9.htm" />
@@ -381,8 +381,8 @@
               <HelpTOCNode Title="Symbol Property " Url="html/9421bf96-b083-290b-a1c8-a94528fdb4d7.htm" />
               <HelpTOCNode Title="TypeCode Property " Url="html/e177c409-2be7-8bf2-62d2-de3ab01d9125.htm" />
             </HelpTOCNode>
-            <HelpTOCNode Id="7836f927-b946-49bc-b3f8-db97687aba4f" Title="ProductId Methods" Url="html/7c63c13a-eddf-2ac1-30b0-db69ff81fcca.htm">
-              <HelpTOCNode Id="7b2d132e-e3e0-4ed5-9804-ab4857378502" Title="OnPropertyChanged Method " Url="html/e6a46db5-5088-a1ca-b9aa-68cf59a50217.htm">
+            <HelpTOCNode Id="8e616e27-c958-4d82-b2ba-76d4d5f93643" Title="ProductId Methods" Url="html/7c63c13a-eddf-2ac1-30b0-db69ff81fcca.htm">
+              <HelpTOCNode Id="00e0e1f2-bdda-4768-ac79-6d28a74ce4f0" Title="OnPropertyChanged Method " Url="html/e6a46db5-5088-a1ca-b9aa-68cf59a50217.htm">
                 <HelpTOCNode Title="OnPropertyChanged Method (String)" Url="html/a61c023e-133d-5b52-c1f8-bb49c72ac937.htm" />
               </HelpTOCNode>
             </HelpTOCNode>
@@ -392,10 +392,10 @@
           <HelpTOCNode Title="TypeCode Enumeration" Url="html/8d826a8d-0657-d11b-06ac-35b3990af17b.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f0786e86-8272-48c6-8599-cfb8d3e2f4c8" Title="ETradeNet.Accounts.Transactions Namespaces" Url="html/f822d18e-0555-03bb-3faa-bd7280c84b63.htm">
-        <HelpTOCNode Id="3cb5d8df-dd2d-499d-8742-ddbefac8133c" Title="ETradeNet.Accounts.Transactions" Url="html/83d08fff-c526-0ae3-1ff9-0411d0ef0c03.htm">
-          <HelpTOCNode Id="c1ba97f7-15a3-4884-986e-dcd0f720f482" Title="IGetDetailsResponse Interface" Url="html/212583af-38f8-6db9-746f-573d4c0bdfa7.htm">
-            <HelpTOCNode Id="8b0c6e07-66b3-4ad6-9646-3452f33195f0" Title="IGetDetailsResponse Properties" Url="html/6a9417b0-801e-ffab-82d7-94b85a6539a4.htm">
+      <HelpTOCNode Id="263a16e9-ce48-4df1-af09-f3dfb2a6f32b" Title="ETradeNet.Accounts.Transactions Namespaces" Url="html/f822d18e-0555-03bb-3faa-bd7280c84b63.htm">
+        <HelpTOCNode Id="a7008564-5cb1-455e-94a9-068b38b2fd02" Title="ETradeNet.Accounts.Transactions" Url="html/83d08fff-c526-0ae3-1ff9-0411d0ef0c03.htm">
+          <HelpTOCNode Id="2a34d69f-f4df-4214-ba7a-f2d0bfaf183b" Title="IGetDetailsResponse Interface" Url="html/212583af-38f8-6db9-746f-573d4c0bdfa7.htm">
+            <HelpTOCNode Id="144e5650-5531-475a-bb21-b7b0056933ec" Title="IGetDetailsResponse Properties" Url="html/6a9417b0-801e-ffab-82d7-94b85a6539a4.htm">
               <HelpTOCNode Title="AccountOrderNo Property " Url="html/8118c783-7a7d-87c6-3fba-d737c7021229.htm" />
               <HelpTOCNode Title="Amount Property " Url="html/dd9f1981-e370-4e18-c2b7-14bf2f5d17aa.htm" />
               <HelpTOCNode Title="Category Property " Url="html/e05c40b0-b4af-7adf-d713-1b8557be599d.htm" />
@@ -415,8 +415,8 @@
             </HelpTOCNode>
             <HelpTOCNode Title="IGetDetailsResponse Events" Url="html/b193f379-b286-f594-4efb-0fefacf4d77c.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="22f5f086-f892-4cc8-bdd2-dbb561c76105" Title="IGetListResponse Interface" Url="html/9b36cb6b-5f57-4298-4672-9ecc1dc922ed.htm">
-            <HelpTOCNode Id="94a9c5c5-a5e2-410d-b734-295328797a65" Title="IGetListResponse Properties" Url="html/150a3777-a255-0e36-0e32-f4a49ceb9135.htm">
+          <HelpTOCNode Id="6ee6b1e9-20b2-455f-9aeb-459420d10353" Title="IGetListResponse Interface" Url="html/9b36cb6b-5f57-4298-4672-9ecc1dc922ed.htm">
+            <HelpTOCNode Id="ca17fb9a-5302-45a6-856b-64c22a8e12b0" Title="IGetListResponse Properties" Url="html/150a3777-a255-0e36-0e32-f4a49ceb9135.htm">
               <HelpTOCNode Title="AccountId Property " Url="html/933dae51-f4da-9d72-0ffa-56e51f13ab8f.htm" />
               <HelpTOCNode Title="Count Property " Url="html/8a2f0d75-1b61-4899-7816-4bd16ef05e4f.htm" />
               <HelpTOCNode Title="Next Property " Url="html/48d8e652-a6c1-e898-616a-894c55bc2572.htm" />
@@ -424,36 +424,36 @@
             </HelpTOCNode>
             <HelpTOCNode Title="IGetListResponse Events" Url="html/d6e92785-e605-3f33-5698-0ef780ec4295.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="32e8fa0c-73fc-4741-a200-0a2eeb6d546c" Title="ITransactionsResource Interface" Url="html/c904b2b6-fd7b-5554-5b81-497dfb7837a7.htm">
-            <HelpTOCNode Id="6d14cc28-1513-4c68-a91f-6642b3cb7a37" Title="ITransactionsResource Methods" Url="html/f3ec7208-cd0c-7c81-4d78-e88389c2f02a.htm">
+          <HelpTOCNode Id="0cb8aea8-09a5-45ab-b5dc-809cc2010e46" Title="ITransactionsResource Interface" Url="html/c904b2b6-fd7b-5554-5b81-497dfb7837a7.htm">
+            <HelpTOCNode Id="17d66b9a-ff71-41d4-9038-285726e1dad6" Title="ITransactionsResource Methods" Url="html/f3ec7208-cd0c-7c81-4d78-e88389c2f02a.htm">
               <HelpTOCNode Title="GetDetailsAsStreamAsync Method " Url="html/f82eb235-a248-b48a-cc68-a566a005a5f0.htm" />
-              <HelpTOCNode Id="30d59e5b-37b9-45d2-871a-7c5dbc64e43b" Title="GetDetailsAsync Method " Url="html/664460e7-59cb-c1bf-3f4d-f5bdf9783356.htm">
+              <HelpTOCNode Id="281a070e-15d3-405d-86e0-3376b8529437" Title="GetDetailsAsync Method " Url="html/664460e7-59cb-c1bf-3f4d-f5bdf9783356.htm">
                 <HelpTOCNode Title="GetDetailsAsync Method (String, String, AccountsParameters)" Url="html/fa9b7a00-13b3-2865-c9fe-fc4421516622.htm" />
                 <HelpTOCNode Title="GetDetailsAsync Method (String, String, AccountsParameters, CancellationToken)" Url="html/bd6b66ff-b84e-1989-958f-04dbb6df7608.htm" />
               </HelpTOCNode>
               <HelpTOCNode Title="GetListAsStreamAsync Method " Url="html/e0119635-b199-c514-5547-0caa76f72276.htm" />
-              <HelpTOCNode Id="4e4425b0-4402-4778-9f7b-a42668b8abf5" Title="GetListAsync Method " Url="html/c48f6a9e-9258-031c-a2d6-f688a1826e2d.htm">
+              <HelpTOCNode Id="42dcedaf-4ff8-4f1f-855f-63df64b4db57" Title="GetListAsync Method " Url="html/c48f6a9e-9258-031c-a2d6-f688a1826e2d.htm">
                 <HelpTOCNode Title="GetListAsync Method (String, Nullable(Group), Nullable(AssetType), Nullable(TransactionType), String, Nullable(DateTime), Nullable(DateTime), Nullable(UInt32), String, AccountsParameters)" Url="html/50e95126-89fa-5ffd-d789-5da636c8d31a.htm" />
                 <HelpTOCNode Title="GetListAsync Method (String, Nullable(Group), Nullable(AssetType), Nullable(TransactionType), String, Nullable(DateTime), Nullable(DateTime), Nullable(UInt32), String, AccountsParameters, CancellationToken)" Url="html/2fed6e66-d34a-a148-0686-d84bb8ac0004.htm" />
               </HelpTOCNode>
             </HelpTOCNode>
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="52df76d0-6f03-4482-972d-7b52fa768bec" Title="ETradeNet.Accounts.Transactions.Data" Url="html/557dc1f5-02f2-f5dc-9747-29041fb59e9a.htm">
+        <HelpTOCNode Id="a28e8b11-4fac-4c80-b9bf-71088aaa5bd9" Title="ETradeNet.Accounts.Transactions.Data" Url="html/557dc1f5-02f2-f5dc-9747-29041fb59e9a.htm">
           <HelpTOCNode Title="AssetType Enumeration" Url="html/412c1c33-f5b2-cb69-60da-4a0611101643.htm" />
           <HelpTOCNode Title="Group Enumeration" Url="html/5d15874c-77cd-7cea-8f62-d568dfa5ac41.htm" />
-          <HelpTOCNode Id="16cc29de-6f8e-4357-9478-8dcd0f6ea0f4" Title="ProductId Class" Url="html/d33506d3-d48a-d9dc-c7db-afb24f705153.htm">
+          <HelpTOCNode Id="63345cd4-ce1e-45d7-9a47-a7da2b7d18a4" Title="ProductId Class" Url="html/d33506d3-d48a-d9dc-c7db-afb24f705153.htm">
             <HelpTOCNode Title="ProductId Constructor " Url="html/35d07d36-e42b-07ae-d98b-fc5b1009169d.htm" />
-            <HelpTOCNode Id="9e4ea829-a6e5-495a-9976-3d289013eb96" Title="ProductId Properties" Url="html/6b0f309a-1c8c-2392-cf53-da49f33ed116.htm">
+            <HelpTOCNode Id="462b9e00-7735-4b2b-83e6-0feabb38d5dc" Title="ProductId Properties" Url="html/6b0f309a-1c8c-2392-cf53-da49f33ed116.htm">
               <HelpTOCNode Title="Symbol Property " Url="html/a516b772-d025-8f20-ea84-38ed99d73360.htm" />
               <HelpTOCNode Title="TypeCode Property " Url="html/e28063bc-4158-cb70-fb36-2d9bc161bd53.htm" />
             </HelpTOCNode>
             <HelpTOCNode Title="ProductId Methods" Url="html/5dc9ca6b-eb26-1fac-3ea4-0fb1d198d961.htm" />
             <HelpTOCNode Title="ProductId Events" Url="html/3b4ebee5-9f05-0cb8-ba6f-4c182003df3f.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="8961c75f-0469-4b3b-80da-34a39a6180fe" Title="Transaction Class" Url="html/74d256f2-bc1a-8af0-b67e-b63a93c849fc.htm">
+          <HelpTOCNode Id="61219781-22f8-4a48-9c70-655db7607aaa" Title="Transaction Class" Url="html/74d256f2-bc1a-8af0-b67e-b63a93c849fc.htm">
             <HelpTOCNode Title="Transaction Constructor " Url="html/1e6aa2d2-1171-654c-f519-ba1603ff4259.htm" />
-            <HelpTOCNode Id="08480d50-527a-4b75-a953-a781fb17f9c8" Title="Transaction Properties" Url="html/5d4ee916-6604-d635-43de-17f7eb52aa70.htm">
+            <HelpTOCNode Id="83bdcf74-8c8d-4426-bc2e-51e4f4cfda9a" Title="Transaction Properties" Url="html/5d4ee916-6604-d635-43de-17f7eb52aa70.htm">
               <HelpTOCNode Title="Amount Property " Url="html/213f1e0a-ab2e-c9d5-d5ee-bfab9ffd9139.htm" />
               <HelpTOCNode Title="Description Property " Url="html/f8cc7adf-0602-2a19-674f-32a2ebe17cd2.htm" />
               <HelpTOCNode Title="Details Property " Url="html/bb29e314-2398-eee9-f468-a06fca67bef7.htm" />
@@ -462,8 +462,8 @@
               <HelpTOCNode Title="TransactionId Property " Url="html/fa10af9b-172b-fe11-0ae5-e7f8a6ca53f9.htm" />
               <HelpTOCNode Title="TransactionShortDesc Property " Url="html/49a7fd66-558e-c29f-dbd3-fbb5cdab31f9.htm" />
             </HelpTOCNode>
-            <HelpTOCNode Id="73af9bee-c399-4a4e-bb52-e4701e38ba3e" Title="Transaction Methods" Url="html/c84955e3-657b-eb31-87b2-f110fc80fe8e.htm">
-              <HelpTOCNode Id="adf7bbcd-75c4-4a3c-b78b-93753a8b5c95" Title="OnPropertyChanged Method " Url="html/0fc0bc1c-d67c-f6aa-f9d2-b7a1180b53c2.htm">
+            <HelpTOCNode Id="eb5d55a9-2352-42e1-80b4-c5182ba3f366" Title="Transaction Methods" Url="html/c84955e3-657b-eb31-87b2-f110fc80fe8e.htm">
+              <HelpTOCNode Id="8b211fad-ad6a-4de9-a516-80d90ebd0eec" Title="OnPropertyChanged Method " Url="html/0fc0bc1c-d67c-f6aa-f9d2-b7a1180b53c2.htm">
                 <HelpTOCNode Title="OnPropertyChanged Method (String)" Url="html/358822b1-07cf-17e0-0cfc-fe4fcc96c2f3.htm" />
               </HelpTOCNode>
             </HelpTOCNode>
