@@ -4,7 +4,6 @@
     <HelpKINode Title="Account Class" Url="html/1943f583-a907-a0a5-5fc8-b8d9f89cf2e7.htm" />
     <HelpKINode Title="about Account class" Url="html/1943f583-a907-a0a5-5fc8-b8d9f89cf2e7.htm" />
     <HelpKINode Title="constructor" Url="html/ed99fb64-89ca-a857-7c03-4393c840a363.htm" />
-    <HelpKINode Title="events" Url="html/e59587ac-32c7-689d-2d06-3112eac5ccf2.htm" />
     <HelpKINode Title="methods" Url="html/ab57f58f-9955-94b4-8dc7-8c067c8a3aef.htm" />
     <HelpKINode Title="properties" Url="html/b1b29bda-9b61-9c57-e9f4-d2ed938e7b0b.htm" />
   </HelpKINode>
@@ -19,7 +18,6 @@
     <HelpKINode Title="AccountBalance Class" Url="html/53241f28-d9a8-dc10-6fb0-334735e8180a.htm" />
     <HelpKINode Title="about AccountBalance class" Url="html/53241f28-d9a8-dc10-6fb0-334735e8180a.htm" />
     <HelpKINode Title="constructor" Url="html/a1dcfc0a-7df2-1861-c51e-998613078e61.htm" />
-    <HelpKINode Title="events" Url="html/eae7e7b2-9135-a543-c07b-074f31d803a4.htm" />
     <HelpKINode Title="methods" Url="html/6960ec84-9e98-972f-bd15-d1cdef11c051.htm" />
     <HelpKINode Title="properties" Url="html/d391763e-68e6-ed7e-a16f-60ccb9218bb8.htm" />
   </HelpKINode>
@@ -41,15 +39,14 @@
     <HelpKINode Title="CancelOrderRequest.AccountId Property " Url="html/89079ebd-0a80-120b-333e-855152d2c2d3.htm" />
     <HelpKINode Title="CancelResponse.AccountId Property " Url="html/7cdb5a4d-337b-7b6c-d4ba-249de77befc0.htm" />
     <HelpKINode Title="IGetDetailsResponse.AccountId Property " Url="html/b8900d84-0e7b-103e-8221-64433e5564bf.htm" />
-    <HelpKINode Title="IGetListResponse.AccountId Property " Url="html/933dae51-f4da-9d72-0ffa-56e51f13ab8f.htm" />
     <HelpKINode Title="IGetListResponse.AccountId Property " Url="html/e61f3c1f-4eb1-d76f-98fd-a99f1d09d1a3.htm" />
+    <HelpKINode Title="IGetListResponse.AccountId Property " Url="html/933dae51-f4da-9d72-0ffa-56e51f13ab8f.htm" />
   </HelpKINode>
   <HelpKINode Title="AccountOrderNo property" Url="html/8118c783-7a7d-87c6-3fba-d737c7021229.htm" />
   <HelpKINode Title="AccountPosition class">
     <HelpKINode Title="AccountPosition Class" Url="html/b28d89fa-defb-61f3-f7c8-0937a6baec3a.htm" />
     <HelpKINode Title="about AccountPosition class" Url="html/b28d89fa-defb-61f3-f7c8-0937a6baec3a.htm" />
     <HelpKINode Title="constructor" Url="html/bf7d3c67-31e8-7b6e-952b-43d52c510a74.htm" />
-    <HelpKINode Title="events" Url="html/e5fcc9c9-978a-0a2b-b7f6-e0b2d945dd25.htm" />
     <HelpKINode Title="methods" Url="html/44efc6c7-6a3e-934a-bfff-471379e30702.htm" />
     <HelpKINode Title="properties" Url="html/a8bde129-9363-fb1c-5355-3dff313bb548.htm" />
   </HelpKINode>
@@ -71,7 +68,6 @@
     <HelpKINode Title="AccountPositions Class" Url="html/2f6a88f1-2122-2afa-84a8-f9954807d084.htm" />
     <HelpKINode Title="about AccountPositions class" Url="html/2f6a88f1-2122-2afa-84a8-f9954807d084.htm" />
     <HelpKINode Title="constructor" Url="html/29205a7b-0872-8e6e-7b04-56673ec3c9e1.htm" />
-    <HelpKINode Title="events" Url="html/a7a4d36a-c790-75fa-66a5-ca6dc440656e.htm" />
     <HelpKINode Title="methods" Url="html/0cec4379-3b06-b2bc-c739-3c909df5d9e0.htm" />
     <HelpKINode Title="properties" Url="html/9398f7e0-001d-c7e5-f822-dcb2501f510c.htm" />
   </HelpKINode>
@@ -135,7 +131,6 @@
     <HelpKINode Title="Alert Class" Url="html/c6ca9d76-8b58-8443-1d6e-d267617fcd81.htm" />
     <HelpKINode Title="about Alert class" Url="html/c6ca9d76-8b58-8443-1d6e-d267617fcd81.htm" />
     <HelpKINode Title="constructor" Url="html/5e487a80-11d7-534a-c674-02ef0443d9b0.htm" />
-    <HelpKINode Title="events" Url="html/c691c31b-9761-02e2-a13d-99dcc3c5a6ed.htm" />
     <HelpKINode Title="methods" Url="html/4a6cbb2d-5ad5-6bdb-a090-efa42c40de56.htm" />
     <HelpKINode Title="properties" Url="html/749330d8-5936-1ffd-0292-ae7a6623b6b6.htm" />
   </HelpKINode>
@@ -144,7 +139,6 @@
   <HelpKINode Title="Alert.AlertId property" Url="html/d8414be3-ffc9-6386-2e15-bccdb5c02706.htm" />
   <HelpKINode Title="Alert.DateTime property" Url="html/13307c18-dc94-c9a4-15ad-8ebc1ba00989.htm" />
   <HelpKINode Title="Alert.DateTime2 property" Url="html/86e3c93a-0c5e-4600-2c2a-1dafca634515.htm" />
-  <HelpKINode Title="Alert.OnPropertyChanged method" Url="html/a4139ac1-12d4-074c-d010-01b550b454c5.htm" />
   <HelpKINode Title="Alert.ReadFlag property" Url="html/4e7db474-cbe7-722a-47e7-161d8043931c.htm" />
   <HelpKINode Title="Alert.Subject property" Url="html/2359624c-6f1d-5916-c5ad-1c6614008b31.htm" />
   <HelpKINode Title="Alert.Symbol property" Url="html/09fe1a46-e31d-aa52-0a17-37f683956220.htm" />
@@ -156,7 +150,6 @@
     <HelpKINode Title="Alerts Class" Url="html/a9944a07-2bee-1b4a-0c30-e3303cc59c48.htm" />
     <HelpKINode Title="about Alerts class" Url="html/a9944a07-2bee-1b4a-0c30-e3303cc59c48.htm" />
     <HelpKINode Title="constructor" Url="html/92b5ff3a-7b79-98f0-62d0-90afd3477d3e.htm" />
-    <HelpKINode Title="events" Url="html/346b55da-2d38-cd17-7542-56014fa3199a.htm" />
     <HelpKINode Title="methods" Url="html/336df0ae-160a-a3d8-5973-91c805f9022f.htm" />
     <HelpKINode Title="properties" Url="html/018188ca-60b5-7326-121c-0c90cf1ffb2b.htm" />
   </HelpKINode>
@@ -171,7 +164,6 @@
     <HelpKINode Title="All Class" Url="html/623e833a-2ee7-d138-51cd-0f6039b68307.htm" />
     <HelpKINode Title="about All class" Url="html/623e833a-2ee7-d138-51cd-0f6039b68307.htm" />
     <HelpKINode Title="constructor" Url="html/2ef30266-290f-2000-cd2d-9b2457b30842.htm" />
-    <HelpKINode Title="events" Url="html/77589c2a-afff-aec9-5dd5-d0693422d6b5.htm" />
     <HelpKINode Title="methods" Url="html/572fa813-75fe-4e33-65b7-e92393240acd.htm" />
     <HelpKINode Title="properties" Url="html/90c53709-8c84-cac6-e998-ae6236115560.htm" />
   </HelpKINode>
@@ -216,7 +208,6 @@
   <HelpKINode Title="All.LowAsk property" Url="html/2da48ef4-d029-5acf-b457-ce6cfb9e1932.htm" />
   <HelpKINode Title="All.LowBid property" Url="html/92165726-73ac-053e-8b48-a0a1e4a23944.htm" />
   <HelpKINode Title="All.NumTrades property" Url="html/1427461d-2a8a-5473-2420-e614cde641a5.htm" />
-  <HelpKINode Title="All.OnPropertyChanged method" Url="html/156dd933-3cfa-6f77-1faa-2c113697299d.htm" />
   <HelpKINode Title="All.Open property" Url="html/1c46ab85-da79-9046-b7fa-68b59fbf9f89.htm" />
   <HelpKINode Title="All.OpenInterest property" Url="html/3fe6a671-e777-d299-879f-dc8eb12aad7a.htm" />
   <HelpKINode Title="All.OptionStyle property" Url="html/e0021ef3-9bad-945c-3315-5dc00e1e037c.htm" />
@@ -290,16 +281,16 @@
   <HelpKINode Title="BuyOpen enumeration member" Url="html/d9a2b6c4-2b02-446f-d25a-514aecec80b8.htm" />
   <HelpKINode Title="BuyToCover enumeration member" Url="html/d9a2b6c4-2b02-446f-d25a-514aecec80b8.htm" />
   <HelpKINode Title="Call enumeration member">
-    <HelpKINode Title="CallOrPut Enumeration" Url="html/5c3008d1-e8c7-801a-c2bd-58e09db2e68e.htm" />
     <HelpKINode Title="CallOrPut Enumeration" Url="html/329d9df9-4279-37e1-6e18-6cff7711bd6a.htm" />
+    <HelpKINode Title="CallOrPut Enumeration" Url="html/5c3008d1-e8c7-801a-c2bd-58e09db2e68e.htm" />
     <HelpKINode Title="ChainType Enumeration" Url="html/5ee0ac88-c3ed-7ea8-ba75-c98cfca6c573.htm" />
   </HelpKINode>
   <HelpKINode Title="Call property" Url="html/6109dba3-8458-5648-81e6-42f16c323ee2.htm" />
   <HelpKINode Title="CallCount property" Url="html/98c0f8f9-682c-ac5d-cc9a-87744310565c.htm" />
   <HelpKINode Title="Callonly enumeration member" Url="html/f48f8d07-7920-f312-a928-c2fdc89177d7.htm" />
   <HelpKINode Title="CallOrPut enumeration">
-    <HelpKINode Title="CallOrPut Enumeration" Url="html/329d9df9-4279-37e1-6e18-6cff7711bd6a.htm" />
     <HelpKINode Title="CallOrPut Enumeration" Url="html/5c3008d1-e8c7-801a-c2bd-58e09db2e68e.htm" />
+    <HelpKINode Title="CallOrPut Enumeration" Url="html/329d9df9-4279-37e1-6e18-6cff7711bd6a.htm" />
   </HelpKINode>
   <HelpKINode Title="CallOrPut property" Url="html/28df9f49-eb61-fc0d-cf8c-4142b633e581.htm" />
   <HelpKINode Title="Callput enumeration member">
@@ -316,7 +307,6 @@
     <HelpKINode Title="CancelOrder Class" Url="html/6f4be1aa-d8a1-a5fa-8e7f-701a52aaf984.htm" />
     <HelpKINode Title="about CancelOrder class" Url="html/6f4be1aa-d8a1-a5fa-8e7f-701a52aaf984.htm" />
     <HelpKINode Title="constructor" Url="html/3a45804b-78c1-f486-7ec9-43c619fb19da.htm" />
-    <HelpKINode Title="events" Url="html/deae535a-3954-9d15-ac33-bf3f836219f2.htm" />
     <HelpKINode Title="methods" Url="html/f0b8964a-fa02-8c22-6e9c-e7da05e60209.htm" />
     <HelpKINode Title="properties" Url="html/12b33890-3ab5-8dd0-ef90-7abc22038378.htm" />
   </HelpKINode>
@@ -326,7 +316,6 @@
     <HelpKINode Title="CancelOrderRequest Class" Url="html/3f481d45-02c0-0db6-9fcd-629554234c5c.htm" />
     <HelpKINode Title="about CancelOrderRequest class" Url="html/3f481d45-02c0-0db6-9fcd-629554234c5c.htm" />
     <HelpKINode Title="constructor" Url="html/e3ca8202-a859-2f0f-a096-7474acf45518.htm" />
-    <HelpKINode Title="events" Url="html/27e782d9-cfe0-3677-8fc4-42b730c3238c.htm" />
     <HelpKINode Title="methods" Url="html/6b99b243-bf27-792d-9ca2-d5ba502701e5.htm" />
     <HelpKINode Title="properties" Url="html/0218962c-cf01-95cc-c2f1-82408ec9363a.htm" />
   </HelpKINode>
@@ -338,7 +327,6 @@
     <HelpKINode Title="CancelResponse Class" Url="html/4178dca2-0803-0c75-b962-e81153eaaf30.htm" />
     <HelpKINode Title="about CancelResponse class" Url="html/4178dca2-0803-0c75-b962-e81153eaaf30.htm" />
     <HelpKINode Title="constructor" Url="html/6e26ca8a-50df-a3d9-f782-82a1ce2192cf.htm" />
-    <HelpKINode Title="events" Url="html/65f44f84-2bc9-f7a3-53eb-d0dc6cc52d21.htm" />
     <HelpKINode Title="methods" Url="html/7e092d23-c7a3-9e75-3233-2556887df4b8.htm" />
     <HelpKINode Title="properties" Url="html/8833d7f7-a262-09cb-f343-4ddee668ec78.htm" />
   </HelpKINode>
@@ -347,7 +335,6 @@
   <HelpKINode Title="CancelResponse.CancelDateTime property" Url="html/0733f8a7-686c-2438-55a3-13915865f803.htm" />
   <HelpKINode Title="CancelResponse.CancelResponse constructor" Url="html/6e26ca8a-50df-a3d9-f782-82a1ce2192cf.htm" />
   <HelpKINode Title="CancelResponse.CancelTime property" Url="html/81db60cd-7011-a055-2e68-2e132d3c779e.htm" />
-  <HelpKINode Title="CancelResponse.OnPropertyChanged method" Url="html/b5291ec4-0ca8-0446-96d8-c0cc961c9025.htm" />
   <HelpKINode Title="CancelResponse.OrderNum property" Url="html/8401f74e-edc4-6daa-b606-253c37a55fb0.htm" />
   <HelpKINode Title="CancelResponse.ResultMessage property" Url="html/464e4f3e-5795-81ea-fb78-f556a6d97967.htm" />
   <HelpKINode Title="CancelTime property" Url="html/81db60cd-7011-a055-2e68-2e132d3c779e.htm" />
@@ -359,7 +346,6 @@
     <HelpKINode Title="CashAccountBalance Class" Url="html/dc2b354f-f183-b6c9-cc9f-213bce3a4576.htm" />
     <HelpKINode Title="about CashAccountBalance class" Url="html/dc2b354f-f183-b6c9-cc9f-213bce3a4576.htm" />
     <HelpKINode Title="constructor" Url="html/213d0a2e-48b5-49d1-03dc-be9101926a8e.htm" />
-    <HelpKINode Title="events" Url="html/32da15d5-ffe6-3a09-6374-98599c5cc4ff.htm" />
     <HelpKINode Title="methods" Url="html/3004e094-edfe-889a-846e-deaa16c0de00.htm" />
     <HelpKINode Title="properties" Url="html/e15e049a-c90c-587c-56cc-18b8429d9664.htm" />
   </HelpKINode>
@@ -386,7 +372,7 @@
     <HelpKINode Title="Intraday.ChgClosePrcn Property " Url="html/bc9e6bc7-2394-80d6-570a-fbbb7e72c2dd.htm" />
   </HelpKINode>
   <HelpKINode Title="ClosePrice property" Url="html/03c3fa40-363d-0baa-bb80-36b3224e2eda.htm" />
-  <HelpKINode Title="Code property" Url="html/9734d10c-530e-b030-6785-31c7eb480319.htm" />
+  <HelpKINode Title="Code property" Url="html/58d5e465-f73d-ba7e-e110-63a2e4c3ea1c.htm" />
   <HelpKINode Title="Commission property" Url="html/1b1f403c-59a6-f368-3287-1d6ddc22741c.htm" />
   <HelpKINode Title="CompanyName property">
     <HelpKINode Title="All.CompanyName Property " Url="html/ccff9e3a-363d-690e-f136-7ef5ac981881.htm" />
@@ -424,7 +410,6 @@
   <HelpKINode Title="Date property">
     <HelpKINode Title="ExpirationDate.Date Property " Url="html/27804993-05ed-aac0-252e-5c1e662ebdad.htm" />
     <HelpKINode Title="ExpireDate.Date Property " Url="html/0382b731-113e-c922-6797-898ae64215ad.htm" />
-    <HelpKINode Title="ProductId.Date Property " Url="html/f3f1e928-f3c4-8393-34f1-4c0547af16f4.htm" />
   </HelpKINode>
   <HelpKINode Title="DateTime property">
     <HelpKINode Title="Alert.DateTime Property " Url="html/13307c18-dc94-c9a4-15ad-8ebc1ba00989.htm" />
@@ -470,7 +455,6 @@
     <HelpKINode Title="DtBalance Class" Url="html/55bb34b7-78c2-e090-f896-63b64a32c4c2.htm" />
     <HelpKINode Title="about DtBalance class" Url="html/55bb34b7-78c2-e090-f896-63b64a32c4c2.htm" />
     <HelpKINode Title="constructor" Url="html/ed8ba03e-325d-a31c-bc38-217f93b0f4f3.htm" />
-    <HelpKINode Title="events" Url="html/3225bba1-3bc3-3449-9374-db0c3ae5d88c.htm" />
     <HelpKINode Title="methods" Url="html/d7fd2aae-aac0-ce8e-6090-c1187ce9aa42.htm" />
     <HelpKINode Title="properties" Url="html/21fb7461-0d12-6b0a-77b6-1542b0d6d330.htm" />
   </HelpKINode>
@@ -495,25 +479,15 @@
   <HelpKINode Title="Eq enumeration member">
     <HelpKINode Title="AssetType Enumeration" Url="html/412c1c33-f5b2-cb69-60da-4a0611101643.htm" />
     <HelpKINode Title="SecurityType Enumeration" Url="html/f6ca2156-793d-6298-b9c5-efacf57b5ec8.htm" />
+    <HelpKINode Title="TypeCode Enumeration" Url="html/c608b90f-093e-719c-39e1-6acda70801b7.htm" />
     <HelpKINode Title="TypeCode Enumeration" Url="html/3823ed01-c305-f54f-bb09-43e74704e660.htm" />
     <HelpKINode Title="TypeCode Enumeration" Url="html/8d826a8d-0657-d11b-06ac-35b3990af17b.htm" />
-    <HelpKINode Title="TypeCode Enumeration" Url="html/c608b90f-093e-719c-39e1-6acda70801b7.htm" />
   </HelpKINode>
   <HelpKINode Title="Equity property">
     <HelpKINode Title="IOrderService.Equity Property " Url="html/14323aff-7485-cf15-e34f-68e51da3a0d2.htm" />
     <HelpKINode Title="OrderService.Equity Property " Url="html/65186b07-d536-3c66-b73e-aa1a0384ad65.htm" />
   </HelpKINode>
-  <HelpKINode Title="Error class">
-    <HelpKINode Title="Error Class" Url="html/6b1bca1d-bfc0-87c4-a2f0-1771e81572c4.htm" />
-    <HelpKINode Title="about Error class" Url="html/6b1bca1d-bfc0-87c4-a2f0-1771e81572c4.htm" />
-    <HelpKINode Title="constructor" Url="html/af0397c5-f341-4f83-362a-269eef43c0a7.htm" />
-    <HelpKINode Title="methods" Url="html/c3cba99e-bef8-e6c4-469d-fd1eaa8b8f83.htm" />
-    <HelpKINode Title="properties" Url="html/a5c83703-4007-3a79-80ca-a85ca21de505.htm" />
-  </HelpKINode>
   <HelpKINode Title="Error property" Url="html/6a396f0b-3c30-fe16-33ff-7eb97b17fa7d.htm" />
-  <HelpKINode Title="Error.Code property" Url="html/9734d10c-530e-b030-6785-31c7eb480319.htm" />
-  <HelpKINode Title="Error.Error constructor" Url="html/af0397c5-f341-4f83-362a-269eef43c0a7.htm" />
-  <HelpKINode Title="Error.Message property" Url="html/1336d6a2-eb51-f0eb-71cb-9acfdb4a14cd.htm" />
   <HelpKINode Title="Estate enumeration member" Url="html/25036756-1481-712c-528e-56bdcd78b203.htm" />
   <HelpKINode Title="EstEarnings property">
     <HelpKINode Title="All.EstEarnings Property " Url="html/80abb780-df09-06fd-7da2-bdebea4c39a2.htm" />
@@ -530,6 +504,8 @@
   </HelpKINode>
   <HelpKINode Title="ETradeException.Error property" Url="html/6a396f0b-3c30-fe16-33ff-7eb97b17fa7d.htm" />
   <HelpKINode Title="ETradeException.ETradeException constructor" Url="html/f1e4d0a9-e666-0a4c-26a9-5664631bd1a2.htm" />
+  <HelpKINode Title="ETradeException.ReasonPhrase property" Url="html/90003837-1514-e361-3448-eed46770ff94.htm" />
+  <HelpKINode Title="ETradeException.ResponseCode property" Url="html/2873cacb-7fd7-1a2a-1b12-920319ba0789.htm" />
   <HelpKINode Title="ETradeNet namespace" Url="html/ddc8ddbb-4f07-9ec0-6ce1-57ea677c356b.htm" />
   <HelpKINode Title="ETradeNet.Accounts namespace" Url="html/f5199aa8-f0e4-2741-523e-2fe507d13b29.htm" />
   <HelpKINode Title="ETradeNet.Accounts.AccountsInitializer class" Url="html/3bbdeb6b-45f8-dcdf-62f1-407438d19b90.htm" />
@@ -588,8 +564,8 @@
   <HelpKINode Title="ETradeNet.Accounts.Transactions.IGetListResponse interface" Url="html/9b36cb6b-5f57-4298-4672-9ecc1dc922ed.htm" />
   <HelpKINode Title="ETradeNet.Accounts.Transactions.ITransactionsResource interface" Url="html/c904b2b6-fd7b-5554-5b81-497dfb7837a7.htm" />
   <HelpKINode Title="ETradeNet.BindableBase class" Url="html/6b02eb1b-3c1a-355a-347b-e75c62171081.htm" />
-  <HelpKINode Title="ETradeNet.Error class" Url="html/6b1bca1d-bfc0-87c4-a2f0-1771e81572c4.htm" />
   <HelpKINode Title="ETradeNet.ETradeException class" Url="html/41f33e28-6de4-46ca-8e72-5d158f08df52.htm" />
+  <HelpKINode Title="ETradeNet.IError interface" Url="html/8ef6ea7a-1aaf-7f25-d105-747e1209a2ea.htm" />
   <HelpKINode Title="ETradeNet.Market namespace" Url="html/b0c84020-5119-39a4-2ee3-2cec393e7d2f.htm" />
   <HelpKINode Title="ETradeNet.Market.Data namespace" Url="html/8b7bfe39-3e33-6bf4-51b4-383a1ab91dfc.htm" />
   <HelpKINode Title="ETradeNet.Market.Data.OauthSignatureMethod enumeration" Url="html/a100086c-1ee2-6976-fc55-6fc23ed2f96f.htm" />
@@ -676,8 +652,8 @@
   <HelpKINode Title="ETradeNet.WrapJsonSerializerProxy class" Url="html/3541e977-8bd2-aee2-88d2-bdb99aa0b170.htm" />
   <HelpKINode Title="European enumeration member" Url="html/e3c0fa6f-77b5-947e-715d-d1f09ee8b82d.htm" />
   <HelpKINode Title="Exchange property">
-    <HelpKINode Title="Product.Exchange Property " Url="html/7dbc4f5c-6f0a-ce8d-f3e7-c8f56ec43e74.htm" />
     <HelpKINode Title="Product.Exchange Property " Url="html/05e50cb8-ada3-035e-0425-647de536af3d.htm" />
+    <HelpKINode Title="Product.Exchange Property " Url="html/7dbc4f5c-6f0a-ce8d-f3e7-c8f56ec43e74.htm" />
   </HelpKINode>
   <HelpKINode Title="ExchangeCode property" Url="html/c46e7a39-4bf0-f2b8-a087-498d597f1fca.htm" />
   <HelpKINode Title="ExchgLastTrade property" Url="html/8edf5d5e-7556-8847-3e2a-9cee64eaa575.htm" />
@@ -685,7 +661,10 @@
   <HelpKINode Title="ExDivDateTime property" Url="html/ce4f24a5-e3df-dd7f-a803-80539d504cd3.htm" />
   <HelpKINode Title="ExecutedPrice property" Url="html/179124cc-d82d-2871-51f9-0a3cfffcfd3b.htm" />
   <HelpKINode Title="Exercise enumeration member" Url="html/e3cd7272-7b31-25df-3294-bfec508eade7.htm" />
-  <HelpKINode Title="ExpDate property" Url="html/72513a68-dafe-3636-3b23-856ce6c58641.htm" />
+  <HelpKINode Title="ExpDate property">
+    <HelpKINode Title="ProductId.ExpDate Property " Url="html/7c7348c7-41a8-9ec0-9505-3f040c358e36.htm" />
+    <HelpKINode Title="SymbolInfo.ExpDate Property " Url="html/72513a68-dafe-3636-3b23-856ce6c58641.htm" />
+  </HelpKINode>
   <HelpKINode Title="ExpDay property">
     <HelpKINode Title="ProductId.ExpDay Property " Url="html/a8d45ca0-fef6-fcfb-c16c-31107f6b72b9.htm" />
     <HelpKINode Title="SymbolInfo.ExpDay Property " Url="html/ab33e440-3d06-64a7-7b9a-b1a063d9d256.htm" />
@@ -695,7 +674,6 @@
     <HelpKINode Title="ExpirationDate Class" Url="html/ea2fdc37-42a6-7050-9f52-9a7401f14706.htm" />
     <HelpKINode Title="about ExpirationDate class" Url="html/ea2fdc37-42a6-7050-9f52-9a7401f14706.htm" />
     <HelpKINode Title="constructor" Url="html/8b0e38eb-2cd2-ecfd-2f36-4190ef4dbdf7.htm" />
-    <HelpKINode Title="events" Url="html/62f6a070-5d85-709a-88dd-9f8fb4c5534e.htm" />
     <HelpKINode Title="methods" Url="html/ad841363-dfa3-c742-80d8-76d3ab662ce6.htm" />
     <HelpKINode Title="properties" Url="html/a50757f5-dfc2-0c5a-236d-8c3c80d4e0b8.htm" />
   </HelpKINode>
@@ -705,13 +683,11 @@
   <HelpKINode Title="ExpirationDate.ExpirationDate constructor" Url="html/8b0e38eb-2cd2-ecfd-2f36-4190ef4dbdf7.htm" />
   <HelpKINode Title="ExpirationDate.ExpiryType property" Url="html/26548243-b66a-1fa0-37a7-1a4b4ade39aa.htm" />
   <HelpKINode Title="ExpirationDate.Month property" Url="html/b8521beb-7c8a-db32-30f0-f4c5cf1eff10.htm" />
-  <HelpKINode Title="ExpirationDate.OnPropertyChanged method" Url="html/f2f17ac9-490d-0df4-2323-b4d787bbae5e.htm" />
   <HelpKINode Title="ExpirationDate.Year property" Url="html/4e68241e-be14-9544-5e96-eb5634757c1a.htm" />
   <HelpKINode Title="ExpireDate class">
     <HelpKINode Title="ExpireDate Class" Url="html/c0ed6cdf-bc0c-d275-e149-33d9db28beac.htm" />
     <HelpKINode Title="about ExpireDate class" Url="html/c0ed6cdf-bc0c-d275-e149-33d9db28beac.htm" />
     <HelpKINode Title="constructor" Url="html/e1b6b9f7-6b96-f345-2362-88bef8246be4.htm" />
-    <HelpKINode Title="events" Url="html/4a67faee-981a-3685-d473-6ca58c9dd629.htm" />
     <HelpKINode Title="methods" Url="html/e9b674f5-2512-be6f-fa36-d7c7de2ddf19.htm" />
     <HelpKINode Title="properties" Url="html/be7d6002-9a8c-e6dc-cb06-92c635ea3cfa.htm" />
   </HelpKINode>
@@ -721,7 +697,6 @@
   <HelpKINode Title="ExpireDate.ExpireDate constructor" Url="html/e1b6b9f7-6b96-f345-2362-88bef8246be4.htm" />
   <HelpKINode Title="ExpireDate.ExpiryType property" Url="html/1f4032a9-91c9-3a2a-5035-3b1506590703.htm" />
   <HelpKINode Title="ExpireDate.Month property" Url="html/5f552913-725c-68e6-1017-643701ed097a.htm" />
-  <HelpKINode Title="ExpireDate.OnPropertyChanged method" Url="html/880b856a-8fcc-acbb-8c84-16c32d1eb46a.htm" />
   <HelpKINode Title="ExpireDate.Year property" Url="html/4bcf0e9b-fb3f-a387-cf1b-b21328f82951.htm" />
   <HelpKINode Title="ExpiryType enumeration">
     <HelpKINode Title="ExpiryType Enumeration" Url="html/315b11d2-3248-41d6-b090-e38ded324e03.htm" />
@@ -743,8 +718,8 @@
   <HelpKINode Title="FedCall property" Url="html/cfccb4a8-a75b-bbf2-72c9-ac0e370b26e2.htm" />
   <HelpKINode Title="Fee enumeration member" Url="html/e3cd7272-7b31-25df-3294-bfec508eade7.htm" />
   <HelpKINode Title="Fi enumeration member">
-    <HelpKINode Title="TypeCode Enumeration" Url="html/8d826a8d-0657-d11b-06ac-35b3990af17b.htm" />
     <HelpKINode Title="TypeCode Enumeration" Url="html/c608b90f-093e-719c-39e1-6acda70801b7.htm" />
+    <HelpKINode Title="TypeCode Enumeration" Url="html/8d826a8d-0657-d11b-06ac-35b3990af17b.htm" />
   </HelpKINode>
   <HelpKINode Title="FilledQuantity property" Url="html/bdd7dee2-8b5b-eec0-73f1-ba8a4fb2650e.htm" />
   <HelpKINode Title="Fsi enumeration" Url="html/69623cbe-4828-e656-1c06-41ae13b0d736.htm" />
@@ -753,7 +728,6 @@
     <HelpKINode Title="Fundamental Class" Url="html/0e6d5767-0f13-5a35-f8fe-5fba6059619d.htm" />
     <HelpKINode Title="about Fundamental class" Url="html/0e6d5767-0f13-5a35-f8fe-5fba6059619d.htm" />
     <HelpKINode Title="constructor" Url="html/032fd097-6aa5-854c-facc-843c686cd8f0.htm" />
-    <HelpKINode Title="events" Url="html/b43ff50e-2bf5-df2f-6ec2-abbb3cf25fb3.htm" />
     <HelpKINode Title="methods" Url="html/3a3b2de1-b85e-271f-7a53-0a0dd91395fe.htm" />
     <HelpKINode Title="properties" Url="html/06ad31e6-bac0-998e-290b-ab8d7ab664d9.htm" />
   </HelpKINode>
@@ -825,9 +799,9 @@
   <HelpKINode Title="HighAsk property" Url="html/41a667f6-2104-970e-30ea-8da8ace435b7.htm" />
   <HelpKINode Title="HighBid property" Url="html/8060693e-c803-9fbb-3b5b-36ec567d0ddf.htm" />
   <HelpKINode Title="HmacSha1 enumeration member">
-    <HelpKINode Title="OauthSignatureMethod Enumeration" Url="html/a100086c-1ee2-6976-fc55-6fc23ed2f96f.htm" />
     <HelpKINode Title="OauthSignatureMethod Enumeration" Url="html/f29e403c-9be4-4026-0347-1148e9be75cc.htm" />
     <HelpKINode Title="OauthSignatureMethod Enumeration" Url="html/9e9eaeee-28f7-5eb7-b646-5f1cd3ccad4c.htm" />
+    <HelpKINode Title="OauthSignatureMethod Enumeration" Url="html/a100086c-1ee2-6976-fc55-6fc23ed2f96f.htm" />
   </HelpKINode>
   <HelpKINode Title="IAccountsInitializer interface">
     <HelpKINode Title="IAccountsInitializer Interface" Url="html/52cc9666-07d1-d706-bab1-bd782fa5dc35.htm" />
@@ -869,14 +843,12 @@
   <HelpKINode Title="ICancelResponse interface">
     <HelpKINode Title="ICancelResponse Interface" Url="html/c21da987-1618-06cc-d468-0ad6b4728030.htm" />
     <HelpKINode Title="about ICancelResponse interface" Url="html/c21da987-1618-06cc-d468-0ad6b4728030.htm" />
-    <HelpKINode Title="events" Url="html/5402b3d2-2a2e-b65e-5087-ba9460afc894.htm" />
     <HelpKINode Title="properties" Url="html/85b3ce3f-5481-9606-a9fd-2c7ed60c9efc.htm" />
   </HelpKINode>
   <HelpKINode Title="ICancelResponse.CancelResponse property" Url="html/fdf20352-2f6c-35cf-26ca-95380406b13b.htm" />
   <HelpKINode Title="IDeleteResponse interface">
     <HelpKINode Title="IDeleteResponse Interface" Url="html/d8129633-344d-46de-0bcd-3322ea382657.htm" />
     <HelpKINode Title="about IDeleteResponse interface" Url="html/d8129633-344d-46de-0bcd-3322ea382657.htm" />
-    <HelpKINode Title="events" Url="html/1ca9055b-3626-766a-48fc-563a82de42ae.htm" />
     <HelpKINode Title="properties" Url="html/f47b0613-e244-e442-07ba-e74f1a003fd7.htm" />
   </HelpKINode>
   <HelpKINode Title="IDeleteResponse.Result property" Url="html/fb191521-7750-b2a4-e7f4-ad79bc80555d.htm" />
@@ -889,19 +861,23 @@
   <HelpKINode Title="IEquityResource.PlaceChangeAsync method" Url="html/290b287c-aba5-c193-680b-9ad78b842a7f.htm" />
   <HelpKINode Title="IEquityResource.PreviewAsync method" Url="html/8b9e6b0b-d6a4-4585-8665-8528bebe6f89.htm" />
   <HelpKINode Title="IEquityResource.PreviewChangeAsync method" Url="html/059b468a-ad3b-1072-c047-9da2c3c47312.htm" />
+  <HelpKINode Title="IError interface">
+    <HelpKINode Title="IError Interface" Url="html/8ef6ea7a-1aaf-7f25-d105-747e1209a2ea.htm" />
+    <HelpKINode Title="about IError interface" Url="html/8ef6ea7a-1aaf-7f25-d105-747e1209a2ea.htm" />
+    <HelpKINode Title="properties" Url="html/2794eac5-e528-9a37-904d-1b46b1ffcae4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IError.Code property" Url="html/58d5e465-f73d-ba7e-e110-63a2e4c3ea1c.htm" />
+  <HelpKINode Title="IError.Message property" Url="html/20b3f66b-4dab-ce2e-97af-40c29a78bb81.htm" />
   <HelpKINode Title="IGetDetailsResponse interface">
-    <HelpKINode Title="IGetDetailsResponse Interface" Url="html/212583af-38f8-6db9-746f-573d4c0bdfa7.htm" />
     <HelpKINode Title="IGetDetailsResponse Interface" Url="html/91c16ed9-d0cb-8c29-ef69-1fe7d1525594.htm" />
     <HelpKINode Title="IGetDetailsResponse Interface" Url="html/beab94f8-8a06-b181-9642-3694c0bfdaab.htm" />
+    <HelpKINode Title="IGetDetailsResponse Interface" Url="html/212583af-38f8-6db9-746f-573d4c0bdfa7.htm" />
+    <HelpKINode Title="about IGetDetailsResponse interface" Url="html/91c16ed9-d0cb-8c29-ef69-1fe7d1525594.htm" />
     <HelpKINode Title="about IGetDetailsResponse interface" Url="html/beab94f8-8a06-b181-9642-3694c0bfdaab.htm" />
     <HelpKINode Title="about IGetDetailsResponse interface" Url="html/212583af-38f8-6db9-746f-573d4c0bdfa7.htm" />
-    <HelpKINode Title="about IGetDetailsResponse interface" Url="html/91c16ed9-d0cb-8c29-ef69-1fe7d1525594.htm" />
-    <HelpKINode Title="events" Url="html/ffb86239-0293-9141-321d-7d6b0d37b751.htm" />
-    <HelpKINode Title="events" Url="html/eb268ff9-ff80-2232-3940-907286978586.htm" />
-    <HelpKINode Title="events" Url="html/b193f379-b286-f594-4efb-0fefacf4d77c.htm" />
-    <HelpKINode Title="properties" Url="html/6a9417b0-801e-ffab-82d7-94b85a6539a4.htm" />
     <HelpKINode Title="properties" Url="html/3bf48c8c-2b1c-6c73-3171-a7bfd909dd02.htm" />
     <HelpKINode Title="properties" Url="html/f6ad307d-3f70-a74c-10cf-6bd647172838.htm" />
+    <HelpKINode Title="properties" Url="html/6a9417b0-801e-ffab-82d7-94b85a6539a4.htm" />
   </HelpKINode>
   <HelpKINode Title="IGetDetailsResponse.AccountBalance property" Url="html/6f037de0-27d1-2ed5-9210-521b75a41bc4.htm" />
   <HelpKINode Title="IGetDetailsResponse.AccountId property" Url="html/b8900d84-0e7b-103e-8221-64433e5564bf.htm" />
@@ -932,34 +908,27 @@
   <HelpKINode Title="IGetDetailsResponse.UnderlyingProductId property" Url="html/af719db4-7590-63d5-4946-4df41e54c053.htm" />
   <HelpKINode Title="IGetDetailsResponse.UserDescription property" Url="html/9e47e0af-3f9a-402d-3322-1dc948a60069.htm" />
   <HelpKINode Title="IGetListResponse interface">
-    <HelpKINode Title="IGetListResponse Interface" Url="html/13d3fc1e-a0c4-dd78-d6f1-9f2c26857a33.htm" />
     <HelpKINode Title="IGetListResponse Interface" Url="html/9b36cb6b-5f57-4298-4672-9ecc1dc922ed.htm" />
+    <HelpKINode Title="IGetListResponse Interface" Url="html/01afde1a-fb51-e96c-3e8d-dc757eb2b615.htm" />
+    <HelpKINode Title="IGetListResponse Interface" Url="html/13d3fc1e-a0c4-dd78-d6f1-9f2c26857a33.htm" />
     <HelpKINode Title="IGetListResponse Interface" Url="html/2486a1ad-a65a-4794-4e8e-95a85e2c1c2d.htm" />
     <HelpKINode Title="IGetListResponse Interface" Url="html/dbe81ed1-1bc4-12ff-b115-6b02f1d84830.htm" />
     <HelpKINode Title="IGetListResponse Interface" Url="html/63f8a1e4-016f-4cb8-c17d-e491dc3ce64b.htm" />
     <HelpKINode Title="IGetListResponse Interface" Url="html/cbdddb3a-c2d3-2d15-6f5b-1cbe187f67ad.htm" />
-    <HelpKINode Title="IGetListResponse Interface" Url="html/01afde1a-fb51-e96c-3e8d-dc757eb2b615.htm" />
-    <HelpKINode Title="about IGetListResponse interface" Url="html/63f8a1e4-016f-4cb8-c17d-e491dc3ce64b.htm" />
-    <HelpKINode Title="about IGetListResponse interface" Url="html/01afde1a-fb51-e96c-3e8d-dc757eb2b615.htm" />
-    <HelpKINode Title="about IGetListResponse interface" Url="html/cbdddb3a-c2d3-2d15-6f5b-1cbe187f67ad.htm" />
     <HelpKINode Title="about IGetListResponse interface" Url="html/9b36cb6b-5f57-4298-4672-9ecc1dc922ed.htm" />
+    <HelpKINode Title="about IGetListResponse interface" Url="html/cbdddb3a-c2d3-2d15-6f5b-1cbe187f67ad.htm" />
+    <HelpKINode Title="about IGetListResponse interface" Url="html/13d3fc1e-a0c4-dd78-d6f1-9f2c26857a33.htm" />
+    <HelpKINode Title="about IGetListResponse interface" Url="html/63f8a1e4-016f-4cb8-c17d-e491dc3ce64b.htm" />
     <HelpKINode Title="about IGetListResponse interface" Url="html/2486a1ad-a65a-4794-4e8e-95a85e2c1c2d.htm" />
     <HelpKINode Title="about IGetListResponse interface" Url="html/dbe81ed1-1bc4-12ff-b115-6b02f1d84830.htm" />
-    <HelpKINode Title="about IGetListResponse interface" Url="html/13d3fc1e-a0c4-dd78-d6f1-9f2c26857a33.htm" />
-    <HelpKINode Title="events" Url="html/1a5a4139-2621-c9ae-ce6a-dbd2fb39d265.htm" />
-    <HelpKINode Title="events" Url="html/4cc93122-1277-1a05-a225-24e40a4e7e95.htm" />
-    <HelpKINode Title="events" Url="html/848fc7f5-b5b2-df8e-0691-8c8e8b2b3334.htm" />
-    <HelpKINode Title="events" Url="html/40cd6f89-22e0-0cf2-d9c2-bf976426b0ac.htm" />
-    <HelpKINode Title="events" Url="html/8974a54f-c030-72a8-19e8-1b7228175026.htm" />
-    <HelpKINode Title="events" Url="html/33438fbc-2518-6697-d9c8-ca77a59a2907.htm" />
-    <HelpKINode Title="events" Url="html/d6e92785-e605-3f33-5698-0ef780ec4295.htm" />
-    <HelpKINode Title="properties" Url="html/d0977afb-baea-0a8c-a14a-23f730d7bf9a.htm" />
+    <HelpKINode Title="about IGetListResponse interface" Url="html/01afde1a-fb51-e96c-3e8d-dc757eb2b615.htm" />
     <HelpKINode Title="properties" Url="html/846f82e1-e697-c17b-5182-bf470cd02682.htm" />
-    <HelpKINode Title="properties" Url="html/c0a89113-714c-1204-6b20-5d4689e99f89.htm" />
-    <HelpKINode Title="properties" Url="html/150a3777-a255-0e36-0e32-f4a49ceb9135.htm" />
-    <HelpKINode Title="properties" Url="html/9584954d-609d-6d1a-a64a-c6b3b3400be3.htm" />
-    <HelpKINode Title="properties" Url="html/455474e4-7b53-cf4b-02bc-0a1b62118ace.htm" />
     <HelpKINode Title="properties" Url="html/6bd1802e-ee9f-1d57-81e3-6e51252f73c5.htm" />
+    <HelpKINode Title="properties" Url="html/9584954d-609d-6d1a-a64a-c6b3b3400be3.htm" />
+    <HelpKINode Title="properties" Url="html/d0977afb-baea-0a8c-a14a-23f730d7bf9a.htm" />
+    <HelpKINode Title="properties" Url="html/455474e4-7b53-cf4b-02bc-0a1b62118ace.htm" />
+    <HelpKINode Title="properties" Url="html/150a3777-a255-0e36-0e32-f4a49ceb9135.htm" />
+    <HelpKINode Title="properties" Url="html/c0a89113-714c-1204-6b20-5d4689e99f89.htm" />
   </HelpKINode>
   <HelpKINode Title="IGetListResponse.Account property" Url="html/6f61e9a6-1f9d-1420-3ea6-4bb3542a90e1.htm" />
   <HelpKINode Title="IGetListResponse.AccountId property">
@@ -980,12 +949,10 @@
   <HelpKINode Title="IGetListResponse.OrderListResponse property" Url="html/0f432627-d571-521c-3e07-094c2446adc9.htm" />
   <HelpKINode Title="IGetListResponse.Transaction property" Url="html/83084e56-0748-2095-e095-f6ea3e3db08f.htm" />
   <HelpKINode Title="IGetResponse interface">
-    <HelpKINode Title="IGetResponse Interface" Url="html/cc5ce308-00d7-ad4e-6871-d176ba0b9852.htm" />
     <HelpKINode Title="IGetResponse Interface" Url="html/045a54ac-eda6-8fe3-4bec-f780f55954f8.htm" />
+    <HelpKINode Title="IGetResponse Interface" Url="html/cc5ce308-00d7-ad4e-6871-d176ba0b9852.htm" />
     <HelpKINode Title="about IGetResponse interface" Url="html/045a54ac-eda6-8fe3-4bec-f780f55954f8.htm" />
     <HelpKINode Title="about IGetResponse interface" Url="html/cc5ce308-00d7-ad4e-6871-d176ba0b9852.htm" />
-    <HelpKINode Title="events" Url="html/3d10c24f-6372-7eff-d6e5-7ba043247941.htm" />
-    <HelpKINode Title="events" Url="html/f9b7535a-b1c8-34e5-187b-0a5711eb165c.htm" />
     <HelpKINode Title="properties" Url="html/6fc16942-f279-1269-e16b-cc865baacf1b.htm" />
     <HelpKINode Title="properties" Url="html/594752e3-e98e-e551-b190-30030956d58b.htm" />
   </HelpKINode>
@@ -1019,7 +986,6 @@
     <HelpKINode Title="Intraday Class" Url="html/c97d38d2-4513-baa9-97df-0c321bc13151.htm" />
     <HelpKINode Title="about Intraday class" Url="html/c97d38d2-4513-baa9-97df-0c321bc13151.htm" />
     <HelpKINode Title="constructor" Url="html/7bdd8493-15f4-c6b7-0384-4ba954f658e3.htm" />
-    <HelpKINode Title="events" Url="html/357e75f2-b905-7488-8d44-258318435afb.htm" />
     <HelpKINode Title="methods" Url="html/9b271341-e357-0bc8-b8bd-4108086e3ad1.htm" />
     <HelpKINode Title="properties" Url="html/fbdb845a-9c9f-8ee6-d909-e8d15ca405a8.htm" />
   </HelpKINode>
@@ -1077,12 +1043,10 @@
   <HelpKINode Title="IOrderService.GetListAsync method" Url="html/6e652f0f-4bbf-4db4-7a2e-20230b3030e1.htm" />
   <HelpKINode Title="IOrderService.Option property" Url="html/bdbe2497-406d-b948-8fe3-6ca26d3d316a.htm" />
   <HelpKINode Title="IPlaceChangeResponse interface">
-    <HelpKINode Title="IPlaceChangeResponse Interface" Url="html/fdcf3970-5c77-cde1-990f-33a1dea91331.htm" />
     <HelpKINode Title="IPlaceChangeResponse Interface" Url="html/69ce71ae-6745-dbf0-a5b4-96f89f85d0fd.htm" />
-    <HelpKINode Title="about IPlaceChangeResponse interface" Url="html/fdcf3970-5c77-cde1-990f-33a1dea91331.htm" />
+    <HelpKINode Title="IPlaceChangeResponse Interface" Url="html/fdcf3970-5c77-cde1-990f-33a1dea91331.htm" />
     <HelpKINode Title="about IPlaceChangeResponse interface" Url="html/69ce71ae-6745-dbf0-a5b4-96f89f85d0fd.htm" />
-    <HelpKINode Title="events" Url="html/17384f93-6ab6-b72d-d924-d43035c98009.htm" />
-    <HelpKINode Title="events" Url="html/43da8a28-cfdf-7460-4dce-62cc13147a28.htm" />
+    <HelpKINode Title="about IPlaceChangeResponse interface" Url="html/fdcf3970-5c77-cde1-990f-33a1dea91331.htm" />
     <HelpKINode Title="properties" Url="html/44e578cb-83e2-6d53-0ade-524ba6b56678.htm" />
     <HelpKINode Title="properties" Url="html/766e81a3-c804-d700-ba47-b107fe78d19a.htm" />
   </HelpKINode>
@@ -1091,18 +1055,16 @@
     <HelpKINode Title="IPlaceChangeResponse.Tbd Property " Url="html/aaf1e3ec-71ea-4478-8b57-545d485aacba.htm" />
   </HelpKINode>
   <HelpKINode Title="IPlaceResponse interface">
-    <HelpKINode Title="IPlaceResponse Interface" Url="html/4ca2702e-3b32-5a75-e2fd-0b167a6c9512.htm" />
     <HelpKINode Title="IPlaceResponse Interface" Url="html/0c925e38-549d-9b42-1b15-c33e16104fd7.htm" />
+    <HelpKINode Title="IPlaceResponse Interface" Url="html/4ca2702e-3b32-5a75-e2fd-0b167a6c9512.htm" />
     <HelpKINode Title="about IPlaceResponse interface" Url="html/0c925e38-549d-9b42-1b15-c33e16104fd7.htm" />
     <HelpKINode Title="about IPlaceResponse interface" Url="html/4ca2702e-3b32-5a75-e2fd-0b167a6c9512.htm" />
-    <HelpKINode Title="events" Url="html/9f99c7c8-5f1c-d7bc-2f4e-33c6adc4efe6.htm" />
-    <HelpKINode Title="events" Url="html/29bb1f62-82ac-fd90-9aeb-cc652f21dc3d.htm" />
     <HelpKINode Title="properties" Url="html/b1cf2627-0f4c-bade-befd-297f23fe9c32.htm" />
     <HelpKINode Title="properties" Url="html/7961b932-09ab-a68c-4e29-f6c504ebafd8.htm" />
   </HelpKINode>
   <HelpKINode Title="IPlaceResponse.Tbd property">
-    <HelpKINode Title="IPlaceResponse.Tbd Property " Url="html/3294d24b-de5d-5b1f-83f8-679774ef04d3.htm" />
     <HelpKINode Title="IPlaceResponse.Tbd Property " Url="html/0803a59a-95c6-ba2c-7acb-f849c2e77b05.htm" />
+    <HelpKINode Title="IPlaceResponse.Tbd Property " Url="html/3294d24b-de5d-5b1f-83f8-679774ef04d3.htm" />
   </HelpKINode>
   <HelpKINode Title="IPositionsResource interface">
     <HelpKINode Title="IPositionsResource Interface" Url="html/2112ff48-5cfb-4802-62aa-acfe16addf60.htm" />
@@ -1112,14 +1074,12 @@
   <HelpKINode Title="IPositionsResource.GetListAsStreamAsync method" Url="html/46a2edd8-28de-056b-cf09-20c16b3699f5.htm" />
   <HelpKINode Title="IPositionsResource.GetListAsync method" Url="html/9eb225ab-297c-c83a-3662-62e34b0bc42f.htm" />
   <HelpKINode Title="IPreviewChangeResponse interface">
-    <HelpKINode Title="IPreviewChangeResponse Interface" Url="html/8d70b2b4-e8fd-044a-c68b-731c069c5d7a.htm" />
     <HelpKINode Title="IPreviewChangeResponse Interface" Url="html/41c398dc-0f1c-aaa7-9153-c3bdefb255ad.htm" />
+    <HelpKINode Title="IPreviewChangeResponse Interface" Url="html/8d70b2b4-e8fd-044a-c68b-731c069c5d7a.htm" />
     <HelpKINode Title="about IPreviewChangeResponse interface" Url="html/8d70b2b4-e8fd-044a-c68b-731c069c5d7a.htm" />
     <HelpKINode Title="about IPreviewChangeResponse interface" Url="html/41c398dc-0f1c-aaa7-9153-c3bdefb255ad.htm" />
-    <HelpKINode Title="events" Url="html/173d5484-9350-2497-41ae-1ed991a7a3ee.htm" />
-    <HelpKINode Title="events" Url="html/eb341ad5-6dab-94c8-175e-d2fee0d14e9b.htm" />
-    <HelpKINode Title="properties" Url="html/c330025e-2250-0228-5d11-5dfff3b8dd78.htm" />
     <HelpKINode Title="properties" Url="html/ffb9f8b3-70d6-e062-d222-721ccd9632b6.htm" />
+    <HelpKINode Title="properties" Url="html/c330025e-2250-0228-5d11-5dfff3b8dd78.htm" />
   </HelpKINode>
   <HelpKINode Title="IPreviewChangeResponse.Tbd property">
     <HelpKINode Title="IPreviewChangeResponse.Tbd Property " Url="html/205892ae-54e0-1216-2014-c5a9c9eb5b95.htm" />
@@ -1130,14 +1090,12 @@
     <HelpKINode Title="IPreviewResponse Interface" Url="html/65ac7350-0d41-fa82-f9c6-0c83834b76c7.htm" />
     <HelpKINode Title="about IPreviewResponse interface" Url="html/d71d8ff7-82e1-875f-91d8-b47911662ac5.htm" />
     <HelpKINode Title="about IPreviewResponse interface" Url="html/65ac7350-0d41-fa82-f9c6-0c83834b76c7.htm" />
-    <HelpKINode Title="events" Url="html/91fadce1-7070-012c-65ae-8dd6bc2594d4.htm" />
-    <HelpKINode Title="events" Url="html/c0c0c0ae-fa5c-4ec1-94f5-fae8419470e9.htm" />
     <HelpKINode Title="properties" Url="html/489f33d5-666e-6c8b-74d7-40a5a380f535.htm" />
     <HelpKINode Title="properties" Url="html/31ea6d13-89e1-d8ef-2526-46ddf5d7c579.htm" />
   </HelpKINode>
   <HelpKINode Title="IPreviewResponse.Tbd property">
-    <HelpKINode Title="IPreviewResponse.Tbd Property " Url="html/c36518d9-8b54-7f33-58ce-4800c478addf.htm" />
     <HelpKINode Title="IPreviewResponse.Tbd Property " Url="html/fd068f7f-b96d-4223-245d-ed60e7113c34.htm" />
+    <HelpKINode Title="IPreviewResponse.Tbd Property " Url="html/c36518d9-8b54-7f33-58ce-4800c478addf.htm" />
   </HelpKINode>
   <HelpKINode Title="IProductLookupResource interface">
     <HelpKINode Title="IProductLookupResource Interface" Url="html/cf10e52f-9dd3-bbdb-8d5f-cbcaccef7f2c.htm" />
@@ -1177,7 +1135,6 @@
     <HelpKINode Title="LegDetail Class" Url="html/68cdbf1e-ebc1-c4a5-b638-f23e9cf63f1e.htm" />
     <HelpKINode Title="about LegDetail class" Url="html/68cdbf1e-ebc1-c4a5-b638-f23e9cf63f1e.htm" />
     <HelpKINode Title="constructor" Url="html/2b1198a8-3632-1457-e666-3f043b8a52fa.htm" />
-    <HelpKINode Title="events" Url="html/ebd18800-881a-b695-8ecb-f4d873157f90.htm" />
     <HelpKINode Title="methods" Url="html/83a8e782-c9d0-da56-6afa-6f9a85943c6f.htm" />
     <HelpKINode Title="properties" Url="html/8f6920ea-23d2-1417-064e-ed67dec9f47f.htm" />
   </HelpKINode>
@@ -1196,7 +1153,6 @@
     <HelpKINode Title="LegDetails Class" Url="html/314ea9db-047d-a853-0b5b-de0b968ed4aa.htm" />
     <HelpKINode Title="about LegDetails class" Url="html/314ea9db-047d-a853-0b5b-de0b968ed4aa.htm" />
     <HelpKINode Title="constructor" Url="html/37dc7a6b-f806-2717-2950-a9f6a857e86c.htm" />
-    <HelpKINode Title="events" Url="html/1636770c-9ad1-e1e2-e27b-0f158eda0ab6.htm" />
     <HelpKINode Title="methods" Url="html/435daf15-c30f-eefa-fef3-9b6c87e0d615.htm" />
     <HelpKINode Title="properties" Url="html/90e34fa4-fc4a-0913-c7a1-bfeeb27e43c6.htm" />
   </HelpKINode>
@@ -1241,7 +1197,6 @@
     <HelpKINode Title="MarginAccountBalance Class" Url="html/c954feb0-ce57-f580-cd02-c2d3b31fa6e2.htm" />
     <HelpKINode Title="about MarginAccountBalance class" Url="html/c954feb0-ce57-f580-cd02-c2d3b31fa6e2.htm" />
     <HelpKINode Title="constructor" Url="html/6a8b9e63-5fdb-a048-bc7a-3d0cab5feb71.htm" />
-    <HelpKINode Title="events" Url="html/3d0a355d-c1d1-8603-6198-fd643b5fd671.htm" />
     <HelpKINode Title="methods" Url="html/20305e72-7425-75fb-60ff-b1f650c5a807.htm" />
     <HelpKINode Title="properties" Url="html/5885fb0c-3ae1-b070-d0db-4a5c31880f04.htm" />
   </HelpKINode>
@@ -1319,7 +1274,7 @@
   <HelpKINode Title="MarketService.Quote property" Url="html/1ab7c751-ccdc-677c-8902-ad9a9f544d9d.htm" />
   <HelpKINode Title="MarketValue property" Url="html/d0c66d5c-4787-127a-daa6-563279cd5936.htm" />
   <HelpKINode Title="MaxAvailableForWithdrawal property" Url="html/12273fa5-0789-6345-9a72-183659f7ec6f.htm" />
-  <HelpKINode Title="Message property" Url="html/1336d6a2-eb51-f0eb-71cb-9acfdb4a14cd.htm" />
+  <HelpKINode Title="Message property" Url="html/20b3f66b-4dab-ce2e-97af-40c29a78bb81.htm" />
   <HelpKINode Title="Mf enumeration member">
     <HelpKINode Title="AssetType Enumeration" Url="html/412c1c33-f5b2-cb69-60da-4a0611101643.htm" />
     <HelpKINode Title="SecurityType Enumeration" Url="html/f6ca2156-793d-6298-b9c5-efacf57b5ec8.htm" />
@@ -1334,8 +1289,8 @@
     <HelpKINode Title="ExpireDate.Month Property " Url="html/5f552913-725c-68e6-1017-643701ed097a.htm" />
   </HelpKINode>
   <HelpKINode Title="Monthly enumeration member">
-    <HelpKINode Title="ExpiryType Enumeration" Url="html/d05f8d9d-0d6e-e684-9db8-212a902e94ce.htm" />
     <HelpKINode Title="ExpiryType Enumeration" Url="html/315b11d2-3248-41d6-b090-e38ded324e03.htm" />
+    <HelpKINode Title="ExpiryType Enumeration" Url="html/d05f8d9d-0d6e-e684-9db8-212a902e94ce.htm" />
     <HelpKINode Title="QuoteType Enumeration" Url="html/91bff1f0-eb32-b78e-791a-b65ca9af8304.htm" />
   </HelpKINode>
   <HelpKINode Title="MsgText property" Url="html/b6f91611-9d2d-74f8-2ccd-9942a6213ba9.htm" />
@@ -1365,8 +1320,8 @@
     <HelpKINode Title="OrderParameters.OauthSignature Property " Url="html/c81c2bc1-7988-790b-5c4f-2b364fa601d4.htm" />
   </HelpKINode>
   <HelpKINode Title="OauthSignatureMethod enumeration">
-    <HelpKINode Title="OauthSignatureMethod Enumeration" Url="html/9e9eaeee-28f7-5eb7-b646-5f1cd3ccad4c.htm" />
     <HelpKINode Title="OauthSignatureMethod Enumeration" Url="html/f29e403c-9be4-4026-0347-1148e9be75cc.htm" />
+    <HelpKINode Title="OauthSignatureMethod Enumeration" Url="html/9e9eaeee-28f7-5eb7-b646-5f1cd3ccad4c.htm" />
     <HelpKINode Title="OauthSignatureMethod Enumeration" Url="html/a100086c-1ee2-6976-fc55-6fc23ed2f96f.htm" />
   </HelpKINode>
   <HelpKINode Title="OauthSignatureMethod property">
@@ -1384,19 +1339,7 @@
     <HelpKINode Title="MarketParameters.OauthToken Property " Url="html/6524a87a-8dac-779e-476d-a7a87ca19fd8.htm" />
     <HelpKINode Title="OrderParameters.OauthToken Property " Url="html/f8999ca4-b343-4b51-7ef8-1a82f78777b2.htm" />
   </HelpKINode>
-  <HelpKINode Title="OnPropertyChanged method">
-    <HelpKINode Title="Alert.OnPropertyChanged Method " Url="html/a4139ac1-12d4-074c-d010-01b550b454c5.htm" />
-    <HelpKINode Title="All.OnPropertyChanged Method " Url="html/156dd933-3cfa-6f77-1faa-2c113697299d.htm" />
-    <HelpKINode Title="BindableBase.OnPropertyChanged Method " Url="html/4a8b5cf3-4ef7-d00d-3842-1a21fb9b5ff9.htm" />
-    <HelpKINode Title="CancelResponse.OnPropertyChanged Method " Url="html/b5291ec4-0ca8-0446-96d8-c0cc961c9025.htm" />
-    <HelpKINode Title="ExpirationDate.OnPropertyChanged Method " Url="html/f2f17ac9-490d-0df4-2323-b4d787bbae5e.htm" />
-    <HelpKINode Title="ExpireDate.OnPropertyChanged Method " Url="html/880b856a-8fcc-acbb-8c84-16c32d1eb46a.htm" />
-    <HelpKINode Title="Order.OnPropertyChanged Method " Url="html/08fbac78-70db-db2a-2f90-2944d4b55e50.htm" />
-    <HelpKINode Title="ProductId.OnPropertyChanged Method " Url="html/e6a46db5-5088-a1ca-b9aa-68cf59a50217.htm" />
-    <HelpKINode Title="QuoteData.OnPropertyChanged Method " Url="html/49a6cdf8-dafe-4e72-ff88-86c44d4b9124.htm" />
-    <HelpKINode Title="SymbolInfo.OnPropertyChanged Method " Url="html/71b06930-6a6f-1269-7a55-b92e07c6bb4f.htm" />
-    <HelpKINode Title="Transaction.OnPropertyChanged Method " Url="html/0fc0bc1c-d67c-f6aa-f9d2-b7a1180b53c2.htm" />
-  </HelpKINode>
+  <HelpKINode Title="OnPropertyChanged method" Url="html/4a8b5cf3-4ef7-d00d-3842-1a21fb9b5ff9.htm" />
   <HelpKINode Title="Open property" Url="html/1c46ab85-da79-9046-b7fa-68b59fbf9f89.htm" />
   <HelpKINode Title="OpenInterest property">
     <HelpKINode Title="All.OpenInterest Property " Url="html/3fe6a671-e777-d299-879f-dc8eb12aad7a.htm" />
@@ -1406,7 +1349,6 @@
     <HelpKINode Title="Option Class" Url="html/ca6ef999-a8fa-618a-a1c3-ea5262c4a69a.htm" />
     <HelpKINode Title="about Option class" Url="html/ca6ef999-a8fa-618a-a1c3-ea5262c4a69a.htm" />
     <HelpKINode Title="constructor" Url="html/645c9b7d-5b4d-21e6-cc2e-003c0194a0d4.htm" />
-    <HelpKINode Title="events" Url="html/425164f9-535f-bf91-6d31-c5d48070d758.htm" />
     <HelpKINode Title="methods" Url="html/c5ebe9f3-e96a-e093-1daa-81ee4427fb8f.htm" />
     <HelpKINode Title="properties" Url="html/1c25d017-1663-7dbd-3ceb-18ce7cbc95a0.htm" />
   </HelpKINode>
@@ -1437,7 +1379,6 @@
     <HelpKINode Title="OptionPair Class" Url="html/0aa3d89f-64d8-743b-4894-296bdb2a5889.htm" />
     <HelpKINode Title="about OptionPair class" Url="html/0aa3d89f-64d8-743b-4894-296bdb2a5889.htm" />
     <HelpKINode Title="constructor" Url="html/4c471de3-3ca6-71c5-e5b9-c9bced2fd0a2.htm" />
-    <HelpKINode Title="events" Url="html/b7c87827-14a2-ff41-bb0a-3d5b2a370ac3.htm" />
     <HelpKINode Title="methods" Url="html/768766d1-39ba-5e10-19f0-2caf96447740.htm" />
     <HelpKINode Title="properties" Url="html/96fd5b30-7060-456d-806f-4cac6bd9b4bf.htm" />
   </HelpKINode>
@@ -1453,7 +1394,6 @@
     <HelpKINode Title="OptionPairItem Class" Url="html/b3f6a334-4dc3-365d-9a07-c2ab9ebd7367.htm" />
     <HelpKINode Title="about OptionPairItem class" Url="html/b3f6a334-4dc3-365d-9a07-c2ab9ebd7367.htm" />
     <HelpKINode Title="constructor" Url="html/380566fa-0bb2-e342-73a2-07e0e14e5c42.htm" />
-    <HelpKINode Title="events" Url="html/a0101152-e1ec-1a08-e143-e312bef6a950.htm" />
     <HelpKINode Title="methods" Url="html/a52efab9-dad9-edc3-c921-53ecf7e88e4a.htm" />
     <HelpKINode Title="properties" Url="html/c54957ce-0abe-278e-6bd9-bdf074bc8d26.htm" />
   </HelpKINode>
@@ -1469,21 +1409,19 @@
   <HelpKINode Title="OptionUnderlier property" Url="html/053e8d5e-1628-27c6-c8a0-ff5b4623e14d.htm" />
   <HelpKINode Title="Optn enumeration member">
     <HelpKINode Title="AssetType Enumeration" Url="html/412c1c33-f5b2-cb69-60da-4a0611101643.htm" />
-    <HelpKINode Title="TypeCode Enumeration" Url="html/3c8e5a23-7ff3-9292-75d2-7ef4ae68aa60.htm" />
     <HelpKINode Title="TypeCode Enumeration" Url="html/8d826a8d-0657-d11b-06ac-35b3990af17b.htm" />
     <HelpKINode Title="TypeCode Enumeration" Url="html/3823ed01-c305-f54f-bb09-43e74704e660.htm" />
+    <HelpKINode Title="TypeCode Enumeration" Url="html/3c8e5a23-7ff3-9292-75d2-7ef4ae68aa60.htm" />
   </HelpKINode>
   <HelpKINode Title="Order class">
     <HelpKINode Title="Order Class" Url="html/b22a6c68-9b69-e9f1-b227-baf514427bf1.htm" />
     <HelpKINode Title="about Order class" Url="html/b22a6c68-9b69-e9f1-b227-baf514427bf1.htm" />
     <HelpKINode Title="constructor" Url="html/0152fdb9-dfa5-0f4b-f34f-05e261c5f6fe.htm" />
-    <HelpKINode Title="events" Url="html/cbbd6ea8-db40-4bd1-9608-81bf4e088fba.htm" />
     <HelpKINode Title="methods" Url="html/9a80ec2c-172b-e128-19d1-3b43d8a3ca73.htm" />
     <HelpKINode Title="properties" Url="html/ae52239a-a860-ecdf-e842-053207f57ee8.htm" />
   </HelpKINode>
   <HelpKINode Title="Order property" Url="html/5fdfa132-caca-fd43-3833-06d90f9da642.htm" />
   <HelpKINode Title="Order.LegDetails property" Url="html/5de16006-bf68-5323-9ccc-e57482ccd938.htm" />
-  <HelpKINode Title="Order.OnPropertyChanged method" Url="html/08fbac78-70db-db2a-2f90-2944d4b55e50.htm" />
   <HelpKINode Title="Order.Order constructor" Url="html/0152fdb9-dfa5-0f4b-f34f-05e261c5f6fe.htm" />
   <HelpKINode Title="Order.OrderExecutedDateTime property" Url="html/3d912ecb-30d5-c84b-f4b8-f37a906f376e.htm" />
   <HelpKINode Title="Order.OrderExecutedTime property" Url="html/1da18e8b-2ae5-50ab-f30e-233598c7cc37.htm" />
@@ -1497,7 +1435,6 @@
     <HelpKINode Title="OrderDetail Class" Url="html/3082f19d-cfb2-acf5-80f6-4f35fb651d83.htm" />
     <HelpKINode Title="about OrderDetail class" Url="html/3082f19d-cfb2-acf5-80f6-4f35fb651d83.htm" />
     <HelpKINode Title="constructor" Url="html/b0acfdea-1e1f-58c5-30a1-4894e75b1740.htm" />
-    <HelpKINode Title="events" Url="html/12252de4-3517-01cf-b87f-829ba5c743fe.htm" />
     <HelpKINode Title="methods" Url="html/5996ef1c-f322-7801-90fc-a4cfd8eb0c2e.htm" />
     <HelpKINode Title="properties" Url="html/d559d5a3-3a0a-74f2-e398-b6ebe67de282.htm" />
   </HelpKINode>
@@ -1507,7 +1444,6 @@
     <HelpKINode Title="OrderDetails Class" Url="html/5036f0dd-63a9-b958-9c51-5e0607195cab.htm" />
     <HelpKINode Title="about OrderDetails class" Url="html/5036f0dd-63a9-b958-9c51-5e0607195cab.htm" />
     <HelpKINode Title="constructor" Url="html/eac92922-2ea3-8e73-6a74-09cc31905fa7.htm" />
-    <HelpKINode Title="events" Url="html/e7869194-ef4f-69c7-8f61-5a522bffbd5c.htm" />
     <HelpKINode Title="methods" Url="html/aa3c4e5d-2a7c-6d43-8c9b-e7402070e192.htm" />
     <HelpKINode Title="properties" Url="html/85bec45a-9081-7211-d547-b4300d985f2a.htm" />
   </HelpKINode>
@@ -1536,7 +1472,6 @@
     <HelpKINode Title="OrderListResponse Class" Url="html/20e36ecc-41cd-ab08-7e0d-7c62125c8362.htm" />
     <HelpKINode Title="about OrderListResponse class" Url="html/20e36ecc-41cd-ab08-7e0d-7c62125c8362.htm" />
     <HelpKINode Title="constructor" Url="html/df5f7164-8593-80b0-da66-362edda3ef1b.htm" />
-    <HelpKINode Title="events" Url="html/9e36c3ae-5145-a755-63fc-74ab46096a95.htm" />
     <HelpKINode Title="methods" Url="html/7eff8a78-afc5-6249-789f-e98ec7f41e28.htm" />
     <HelpKINode Title="properties" Url="html/3843af11-a78f-48ac-d0d0-8ae48d1cd1fb.htm" />
   </HelpKINode>
@@ -1622,20 +1557,17 @@
   <HelpKINode Title="PrimaryExchange property" Url="html/b2d2634c-2e61-6206-2a18-e483f8130914.htm" />
   <HelpKINode Title="Product class">
     <HelpKINode Title="Product Class" Url="html/d1ac5aec-6f3b-805b-5298-09f8e3dfbca0.htm" />
-    <HelpKINode Title="Product Class" Url="html/b42f9fe8-fff2-9fe0-1dd0-6e90e6d8070f.htm" />
     <HelpKINode Title="Product Class" Url="html/d90149c6-b3ff-38ed-2f72-13ebb40f999e.htm" />
-    <HelpKINode Title="about Product class" Url="html/d90149c6-b3ff-38ed-2f72-13ebb40f999e.htm" />
+    <HelpKINode Title="Product Class" Url="html/b42f9fe8-fff2-9fe0-1dd0-6e90e6d8070f.htm" />
     <HelpKINode Title="about Product class" Url="html/b42f9fe8-fff2-9fe0-1dd0-6e90e6d8070f.htm" />
     <HelpKINode Title="about Product class" Url="html/d1ac5aec-6f3b-805b-5298-09f8e3dfbca0.htm" />
-    <HelpKINode Title="constructor" Url="html/70f8850d-e33d-89da-e3e9-35d765496c8d.htm" />
+    <HelpKINode Title="about Product class" Url="html/d90149c6-b3ff-38ed-2f72-13ebb40f999e.htm" />
     <HelpKINode Title="constructor" Url="html/e644b6c4-ada3-6bac-418d-981d6cf3d158.htm" />
     <HelpKINode Title="constructor" Url="html/ed784376-783d-d363-f954-3aa59d2804b8.htm" />
-    <HelpKINode Title="events" Url="html/537a98f6-dc74-dba4-bed7-4476b4dff1d8.htm" />
-    <HelpKINode Title="events" Url="html/d25f2358-5364-42f5-0c30-2ab4c16830e3.htm" />
-    <HelpKINode Title="events" Url="html/3e793fbe-2ba8-41f6-c7b3-f7c53c9d1788.htm" />
+    <HelpKINode Title="constructor" Url="html/70f8850d-e33d-89da-e3e9-35d765496c8d.htm" />
     <HelpKINode Title="methods" Url="html/0b424db7-1807-0e07-5f24-24cc854c9ac1.htm" />
-    <HelpKINode Title="methods" Url="html/226bb25d-874a-abab-b112-b1535df9ffe4.htm" />
     <HelpKINode Title="methods" Url="html/6b3ad7e7-3adf-f067-3389-c2cc755251fe.htm" />
+    <HelpKINode Title="methods" Url="html/226bb25d-874a-abab-b112-b1535df9ffe4.htm" />
     <HelpKINode Title="properties" Url="html/a5070df8-6f2d-2a85-48d4-085726952f79.htm" />
     <HelpKINode Title="properties" Url="html/6311af1d-f3af-2033-e918-f02ce9926132.htm" />
     <HelpKINode Title="properties" Url="html/cd688aca-c7ca-3f5a-02af-6aa720be36b2.htm" />
@@ -1646,14 +1578,14 @@
   </HelpKINode>
   <HelpKINode Title="Product.CompanyName property" Url="html/c2f03f5a-4254-c776-8f21-834893ef1192.htm" />
   <HelpKINode Title="Product.Exchange property">
-    <HelpKINode Title="Product.Exchange Property " Url="html/7dbc4f5c-6f0a-ce8d-f3e7-c8f56ec43e74.htm" />
     <HelpKINode Title="Product.Exchange Property " Url="html/05e50cb8-ada3-035e-0425-647de536af3d.htm" />
+    <HelpKINode Title="Product.Exchange Property " Url="html/7dbc4f5c-6f0a-ce8d-f3e7-c8f56ec43e74.htm" />
   </HelpKINode>
   <HelpKINode Title="Product.ExchangeCode property" Url="html/c46e7a39-4bf0-f2b8-a087-498d597f1fca.htm" />
   <HelpKINode Title="Product.Product constructor">
     <HelpKINode Title="Product Constructor " Url="html/70f8850d-e33d-89da-e3e9-35d765496c8d.htm" />
-    <HelpKINode Title="Product Constructor " Url="html/ed784376-783d-d363-f954-3aa59d2804b8.htm" />
     <HelpKINode Title="Product Constructor " Url="html/e644b6c4-ada3-6bac-418d-981d6cf3d158.htm" />
+    <HelpKINode Title="Product Constructor " Url="html/ed784376-783d-d363-f954-3aa59d2804b8.htm" />
   </HelpKINode>
   <HelpKINode Title="Product.SecurityType property" Url="html/d3009ac0-f24d-2524-41d8-04e0d2648f46.htm" />
   <HelpKINode Title="Product.Symbol property">
@@ -1664,30 +1596,27 @@
   <HelpKINode Title="Product.Type property" Url="html/15d4e6d5-7475-fd41-6cf1-975a2ae171b7.htm" />
   <HelpKINode Title="Product.TypeCode property" Url="html/e755e9d0-3650-d2b4-00b2-69591f21382c.htm" />
   <HelpKINode Title="ProductId class">
-    <HelpKINode Title="ProductId Class" Url="html/d33506d3-d48a-d9dc-c7db-afb24f705153.htm" />
     <HelpKINode Title="ProductId Class" Url="html/00b38283-d538-a7dd-7359-13a0e81a62c3.htm" />
-    <HelpKINode Title="about ProductId class" Url="html/d33506d3-d48a-d9dc-c7db-afb24f705153.htm" />
+    <HelpKINode Title="ProductId Class" Url="html/d33506d3-d48a-d9dc-c7db-afb24f705153.htm" />
     <HelpKINode Title="about ProductId class" Url="html/00b38283-d538-a7dd-7359-13a0e81a62c3.htm" />
-    <HelpKINode Title="constructor" Url="html/35d07d36-e42b-07ae-d98b-fc5b1009169d.htm" />
+    <HelpKINode Title="about ProductId class" Url="html/d33506d3-d48a-d9dc-c7db-afb24f705153.htm" />
     <HelpKINode Title="constructor" Url="html/ce54244e-900c-0681-9e96-e457be9ac133.htm" />
-    <HelpKINode Title="events" Url="html/a95f081e-2f67-2f61-1720-c5876060173b.htm" />
-    <HelpKINode Title="events" Url="html/3b4ebee5-9f05-0cb8-ba6f-4c182003df3f.htm" />
-    <HelpKINode Title="methods" Url="html/5dc9ca6b-eb26-1fac-3ea4-0fb1d198d961.htm" />
+    <HelpKINode Title="constructor" Url="html/35d07d36-e42b-07ae-d98b-fc5b1009169d.htm" />
     <HelpKINode Title="methods" Url="html/7c63c13a-eddf-2ac1-30b0-db69ff81fcca.htm" />
+    <HelpKINode Title="methods" Url="html/5dc9ca6b-eb26-1fac-3ea4-0fb1d198d961.htm" />
     <HelpKINode Title="properties" Url="html/83400ea6-c571-92ac-0694-ef014d805f27.htm" />
     <HelpKINode Title="properties" Url="html/6b0f309a-1c8c-2392-cf53-da49f33ed116.htm" />
   </HelpKINode>
   <HelpKINode Title="ProductId property" Url="html/e56f487e-6e56-3c04-e569-3d32c7eead09.htm" />
   <HelpKINode Title="ProductID property" Url="html/911a3da8-e844-bfa1-9d4c-4fb12c4664dc.htm" />
   <HelpKINode Title="ProductId.CallPut property" Url="html/70ae0f49-b314-1faf-c501-1d15cc672928.htm" />
-  <HelpKINode Title="ProductId.Date property" Url="html/f3f1e928-f3c4-8393-34f1-4c0547af16f4.htm" />
+  <HelpKINode Title="ProductId.ExpDate property" Url="html/7c7348c7-41a8-9ec0-9505-3f040c358e36.htm" />
   <HelpKINode Title="ProductId.ExpDay property" Url="html/a8d45ca0-fef6-fcfb-c16c-31107f6b72b9.htm" />
   <HelpKINode Title="ProductId.ExpMonth property" Url="html/543e8f59-b375-dbb7-4a2b-fd61b9f4cd25.htm" />
   <HelpKINode Title="ProductId.ExpYear property" Url="html/8875a51a-dda8-8612-f1a0-3734fcacf39f.htm" />
-  <HelpKINode Title="ProductId.OnPropertyChanged method" Url="html/e6a46db5-5088-a1ca-b9aa-68cf59a50217.htm" />
   <HelpKINode Title="ProductId.ProductId constructor">
-    <HelpKINode Title="ProductId Constructor " Url="html/ce54244e-900c-0681-9e96-e457be9ac133.htm" />
     <HelpKINode Title="ProductId Constructor " Url="html/35d07d36-e42b-07ae-d98b-fc5b1009169d.htm" />
+    <HelpKINode Title="ProductId Constructor " Url="html/ce54244e-900c-0681-9e96-e457be9ac133.htm" />
   </HelpKINode>
   <HelpKINode Title="ProductId.StrikePrice property" Url="html/0f1fe029-66da-0aa1-a9c8-bf192e07bdda.htm" />
   <HelpKINode Title="ProductId.Symbol property">
@@ -1695,8 +1624,8 @@
     <HelpKINode Title="ProductId.Symbol Property " Url="html/a516b772-d025-8f20-ea84-38ed99d73360.htm" />
   </HelpKINode>
   <HelpKINode Title="ProductId.TypeCode property">
-    <HelpKINode Title="ProductId.TypeCode Property " Url="html/e177c409-2be7-8bf2-62d2-de3ab01d9125.htm" />
     <HelpKINode Title="ProductId.TypeCode Property " Url="html/e28063bc-4158-cb70-fb36-2d9bc161bd53.htm" />
+    <HelpKINode Title="ProductId.TypeCode Property " Url="html/e177c409-2be7-8bf2-62d2-de3ab01d9125.htm" />
   </HelpKINode>
   <HelpKINode Title="ProductList property" Url="html/24de8291-e21f-7c4a-43d7-118a7853ca2b.htm" />
   <HelpKINode Title="ProductLookup property">
@@ -1705,8 +1634,8 @@
   </HelpKINode>
   <HelpKINode Title="PropertyChanged event" Url="html/f72f92c3-6188-2583-a66c-e4ae8415f04c.htm" />
   <HelpKINode Title="Put enumeration member">
-    <HelpKINode Title="CallOrPut Enumeration" Url="html/329d9df9-4279-37e1-6e18-6cff7711bd6a.htm" />
     <HelpKINode Title="CallOrPut Enumeration" Url="html/5c3008d1-e8c7-801a-c2bd-58e09db2e68e.htm" />
+    <HelpKINode Title="CallOrPut Enumeration" Url="html/329d9df9-4279-37e1-6e18-6cff7711bd6a.htm" />
     <HelpKINode Title="ChainType Enumeration" Url="html/5ee0ac88-c3ed-7ea8-ba75-c98cfca6c573.htm" />
   </HelpKINode>
   <HelpKINode Title="Put property" Url="html/73028873-1795-4e2b-c82f-620ef9d2faf6.htm" />
@@ -1730,7 +1659,6 @@
     <HelpKINode Title="QuoteData Class" Url="html/8a109ff3-397c-02d0-8fb0-bcdf55f6c446.htm" />
     <HelpKINode Title="about QuoteData class" Url="html/8a109ff3-397c-02d0-8fb0-bcdf55f6c446.htm" />
     <HelpKINode Title="constructor" Url="html/56db417d-1ff2-0646-3c46-4c51dbae3337.htm" />
-    <HelpKINode Title="events" Url="html/cca88379-b2d4-d153-1933-cc099d9e2d0b.htm" />
     <HelpKINode Title="methods" Url="html/04dc38dc-0d4c-4fde-02dc-1f0cb72da501.htm" />
     <HelpKINode Title="properties" Url="html/c80da859-12ea-6847-6671-3f6585ac4a6b.htm" />
   </HelpKINode>
@@ -1740,7 +1668,6 @@
   <HelpKINode Title="QuoteData.DateTime2 property" Url="html/7fa9d385-4557-611a-8dd9-cf5ed19c0fc0.htm" />
   <HelpKINode Title="QuoteData.Fundamental property" Url="html/7bfac9f6-565a-1df4-bb9d-67c0b4fa4daf.htm" />
   <HelpKINode Title="QuoteData.Intraday property" Url="html/4ce5f5a1-878e-9831-1031-c0a5ef488191.htm" />
-  <HelpKINode Title="QuoteData.OnPropertyChanged method" Url="html/49a6cdf8-dafe-4e72-ff88-86c44d4b9124.htm" />
   <HelpKINode Title="QuoteData.Option property" Url="html/a658a3ff-8895-3447-991c-93cdfd1acfbd.htm" />
   <HelpKINode Title="QuoteData.Product property" Url="html/e7d5a442-8131-86ae-b7d1-dd4959ffdc1a.htm" />
   <HelpKINode Title="QuoteData.QuoteData constructor" Url="html/56db417d-1ff2-0646-3c46-4c51dbae3337.htm" />
@@ -1751,9 +1678,11 @@
   <HelpKINode Title="ReadDateTime property" Url="html/2965d83c-376c-2e8c-4234-496aad2f7177.htm" />
   <HelpKINode Title="ReadFlag enumeration" Url="html/f638e2cb-6870-3a2e-7185-0a2da286242e.htm" />
   <HelpKINode Title="ReadFlag property" Url="html/4e7db474-cbe7-722a-47e7-161d8043931c.htm" />
+  <HelpKINode Title="ReasonPhrase property" Url="html/90003837-1514-e361-3448-eed46770ff94.htm" />
   <HelpKINode Title="RegistrationType enumeration" Url="html/25036756-1481-712c-528e-56bdcd78b203.htm" />
   <HelpKINode Title="RegistrationType property" Url="html/1da8c77b-5729-0871-8816-97d978dc88d7.htm" />
   <HelpKINode Title="ReserveQuantity property" Url="html/ab4e8dd3-6f27-a240-7493-7e795e184e4d.htm" />
+  <HelpKINode Title="ResponseCode property" Url="html/2873cacb-7fd7-1a2a-1b12-920319ba0789.htm" />
   <HelpKINode Title="Result enumeration" Url="html/542691f5-f417-a9a8-f714-c9e694d2eb21.htm" />
   <HelpKINode Title="Result property" Url="html/fb191521-7750-b2a4-e7f4-ad79bc80555d.htm" />
   <HelpKINode Title="ResultMessage property" Url="html/464e4f3e-5795-81ea-fb78-f556a6d97967.htm" />
@@ -1786,11 +1715,11 @@
   <HelpKINode Title="Symbol property">
     <HelpKINode Title="Alert.Symbol Property " Url="html/09fe1a46-e31d-aa52-0a17-37f683956220.htm" />
     <HelpKINode Title="OptionPair.Symbol Property " Url="html/5ba9a1fd-2727-a0cf-495b-79b70896ac4c.htm" />
-    <HelpKINode Title="Product.Symbol Property " Url="html/47450657-a797-2b79-5f0e-d804e7a54489.htm" />
-    <HelpKINode Title="Product.Symbol Property " Url="html/23ebb8a3-d93b-2143-1104-20ad9b4f82d0.htm" />
     <HelpKINode Title="Product.Symbol Property " Url="html/1eb547b0-8252-8465-fea7-95af22f9fa72.htm" />
-    <HelpKINode Title="ProductId.Symbol Property " Url="html/a516b772-d025-8f20-ea84-38ed99d73360.htm" />
+    <HelpKINode Title="Product.Symbol Property " Url="html/23ebb8a3-d93b-2143-1104-20ad9b4f82d0.htm" />
+    <HelpKINode Title="Product.Symbol Property " Url="html/47450657-a797-2b79-5f0e-d804e7a54489.htm" />
     <HelpKINode Title="ProductId.Symbol Property " Url="html/9421bf96-b083-290b-a1c8-a94528fdb4d7.htm" />
+    <HelpKINode Title="ProductId.Symbol Property " Url="html/a516b772-d025-8f20-ea84-38ed99d73360.htm" />
     <HelpKINode Title="SymbolInfo.Symbol Property " Url="html/5596dd05-2cca-08b2-eaef-7af32bb5a570.htm" />
   </HelpKINode>
   <HelpKINode Title="SymbolDesc property">
@@ -1803,7 +1732,6 @@
     <HelpKINode Title="SymbolInfo Class" Url="html/04166569-f0bb-15a9-6b0d-3708565f771f.htm" />
     <HelpKINode Title="about SymbolInfo class" Url="html/04166569-f0bb-15a9-6b0d-3708565f771f.htm" />
     <HelpKINode Title="constructor" Url="html/3f88319b-fc7e-c41e-66bc-dd6ed762a545.htm" />
-    <HelpKINode Title="events" Url="html/ac062c85-393d-df04-c6e0-c91a479ccad3.htm" />
     <HelpKINode Title="methods" Url="html/a8517e17-8962-4675-6a98-11f6fd622da0.htm" />
     <HelpKINode Title="properties" Url="html/a2e8c79e-4064-aa38-4e28-7694890ac537.htm" />
   </HelpKINode>
@@ -1813,19 +1741,18 @@
   <HelpKINode Title="SymbolInfo.ExpDay property" Url="html/ab33e440-3d06-64a7-7b9a-b1a063d9d256.htm" />
   <HelpKINode Title="SymbolInfo.ExpMonth property" Url="html/ae4af1be-9e6b-de43-0a45-4017fc609d3a.htm" />
   <HelpKINode Title="SymbolInfo.ExpYear property" Url="html/0e2d1dd8-8d09-56cf-624b-4bfef5272bd8.htm" />
-  <HelpKINode Title="SymbolInfo.OnPropertyChanged method" Url="html/71b06930-6a6f-1269-7a55-b92e07c6bb4f.htm" />
   <HelpKINode Title="SymbolInfo.StrikePrice property" Url="html/3e1088b4-90ce-b4a9-2082-e6466274876f.htm" />
   <HelpKINode Title="SymbolInfo.Symbol property" Url="html/5596dd05-2cca-08b2-eaef-7af32bb5a570.htm" />
   <HelpKINode Title="SymbolInfo.SymbolInfo constructor" Url="html/3f88319b-fc7e-c41e-66bc-dd6ed762a545.htm" />
   <HelpKINode Title="Tbd property">
     <HelpKINode Title="IPlaceChangeResponse.Tbd Property " Url="html/aaf1e3ec-71ea-4478-8b57-545d485aacba.htm" />
     <HelpKINode Title="IPlaceChangeResponse.Tbd Property " Url="html/692c7226-d0d5-5848-a579-8d2c1388d87c.htm" />
-    <HelpKINode Title="IPlaceResponse.Tbd Property " Url="html/3294d24b-de5d-5b1f-83f8-679774ef04d3.htm" />
     <HelpKINode Title="IPlaceResponse.Tbd Property " Url="html/0803a59a-95c6-ba2c-7acb-f849c2e77b05.htm" />
-    <HelpKINode Title="IPreviewChangeResponse.Tbd Property " Url="html/205892ae-54e0-1216-2014-c5a9c9eb5b95.htm" />
+    <HelpKINode Title="IPlaceResponse.Tbd Property " Url="html/3294d24b-de5d-5b1f-83f8-679774ef04d3.htm" />
     <HelpKINode Title="IPreviewChangeResponse.Tbd Property " Url="html/3f17a6bf-6648-5e95-6a0e-d3797d7c2f87.htm" />
-    <HelpKINode Title="IPreviewResponse.Tbd Property " Url="html/fd068f7f-b96d-4223-245d-ed60e7113c34.htm" />
+    <HelpKINode Title="IPreviewChangeResponse.Tbd Property " Url="html/205892ae-54e0-1216-2014-c5a9c9eb5b95.htm" />
     <HelpKINode Title="IPreviewResponse.Tbd Property " Url="html/c36518d9-8b54-7f33-58ce-4800c478addf.htm" />
+    <HelpKINode Title="IPreviewResponse.Tbd Property " Url="html/fd068f7f-b96d-4223-245d-ed60e7113c34.htm" />
   </HelpKINode>
   <HelpKINode Title="TodayClosed property" Url="html/bfa43033-8ad2-5091-a49f-3bd6ffcca49e.htm" />
   <HelpKINode Title="TotalCash property" Url="html/d40ddfb7-2888-baff-e203-5ba0016fffd5.htm" />
@@ -1842,7 +1769,6 @@
     <HelpKINode Title="Transaction Class" Url="html/74d256f2-bc1a-8af0-b67e-b63a93c849fc.htm" />
     <HelpKINode Title="about Transaction class" Url="html/74d256f2-bc1a-8af0-b67e-b63a93c849fc.htm" />
     <HelpKINode Title="constructor" Url="html/1e6aa2d2-1171-654c-f519-ba1603ff4259.htm" />
-    <HelpKINode Title="events" Url="html/fa79a60b-7673-5112-a522-30f520e3d8fa.htm" />
     <HelpKINode Title="methods" Url="html/c84955e3-657b-eb31-87b2-f110fc80fe8e.htm" />
     <HelpKINode Title="properties" Url="html/5d4ee916-6604-d635-43de-17f7eb52aa70.htm" />
   </HelpKINode>
@@ -1850,7 +1776,6 @@
   <HelpKINode Title="Transaction.Amount property" Url="html/213f1e0a-ab2e-c9d5-d5ee-bfab9ffd9139.htm" />
   <HelpKINode Title="Transaction.Description property" Url="html/f8cc7adf-0602-2a19-674f-32a2ebe17cd2.htm" />
   <HelpKINode Title="Transaction.Details property" Url="html/bb29e314-2398-eee9-f468-a06fca67bef7.htm" />
-  <HelpKINode Title="Transaction.OnPropertyChanged method" Url="html/0fc0bc1c-d67c-f6aa-f9d2-b7a1180b53c2.htm" />
   <HelpKINode Title="Transaction.Transaction constructor" Url="html/1e6aa2d2-1171-654c-f519-ba1603ff4259.htm" />
   <HelpKINode Title="Transaction.TransactionDate property" Url="html/a80d93f7-f147-3388-01da-5a84a1bf2d45.htm" />
   <HelpKINode Title="Transaction.TransactionDateTime property" Url="html/682b91e9-4d13-256c-da22-7b82d4b2dab0.htm" />
@@ -1874,10 +1799,10 @@
   <HelpKINode Title="Trust enumeration member" Url="html/25036756-1481-712c-528e-56bdcd78b203.htm" />
   <HelpKINode Title="Type property" Url="html/15d4e6d5-7475-fd41-6cf1-975a2ae171b7.htm" />
   <HelpKINode Title="TypeCode enumeration">
-    <HelpKINode Title="TypeCode Enumeration" Url="html/c608b90f-093e-719c-39e1-6acda70801b7.htm" />
-    <HelpKINode Title="TypeCode Enumeration" Url="html/8d826a8d-0657-d11b-06ac-35b3990af17b.htm" />
     <HelpKINode Title="TypeCode Enumeration" Url="html/3823ed01-c305-f54f-bb09-43e74704e660.htm" />
+    <HelpKINode Title="TypeCode Enumeration" Url="html/8d826a8d-0657-d11b-06ac-35b3990af17b.htm" />
     <HelpKINode Title="TypeCode Enumeration" Url="html/3c8e5a23-7ff3-9292-75d2-7ef4ae68aa60.htm" />
+    <HelpKINode Title="TypeCode Enumeration" Url="html/c608b90f-093e-719c-39e1-6acda70801b7.htm" />
   </HelpKINode>
   <HelpKINode Title="TypeCode property">
     <HelpKINode Title="Product.TypeCode Property " Url="html/e755e9d0-3650-d2b4-00b2-69591f21382c.htm" />
@@ -1902,7 +1827,6 @@
     <HelpKINode Title="Week52 Class" Url="html/743794ad-957a-b1b7-ee6f-65e028ed1ee8.htm" />
     <HelpKINode Title="about Week52 class" Url="html/743794ad-957a-b1b7-ee6f-65e028ed1ee8.htm" />
     <HelpKINode Title="constructor" Url="html/834ed2a8-b9ab-f49c-4604-1a10792f50b5.htm" />
-    <HelpKINode Title="events" Url="html/340fe00d-42da-34b3-9ba7-971f7a193753.htm" />
     <HelpKINode Title="methods" Url="html/4215065b-caeb-bd79-4b00-50fde27e28d4.htm" />
     <HelpKINode Title="properties" Url="html/0fe7b8b2-2400-2a82-20d3-4d65a6df689b.htm" />
   </HelpKINode>
